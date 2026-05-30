@@ -1,0 +1,6666 @@
+[
+  {
+    "tmdb_id": 1226863,
+    "title": "The Super Mario Galaxy Movie",
+    "year": 2026,
+    "runtime": 98,
+    "genres": [
+      "Family",
+      "Comedy",
+      "Adventure",
+      "Fantasy",
+      "Animation"
+    ],
+    "genre_ids": [
+      10751,
+      35,
+      12,
+      14,
+      16
+    ],
+    "rating": 8.026,
+    "vote_count": 2020,
+    "popularity": 335.7547,
+    "poster_url": "https://image.tmdb.org/t/p/w500/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg",
+    "overview": "Having thwarted Bowser's previous plot to marry Princess Peach, Mario and Luigi now face a fresh threat in Bowser Jr., who is determined to liberate his father from captivity and restore the family legacy. Alongside companions new and old, the brothers travel across the stars to stop the young heir's crusade.",
+    "feature_vector": [
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.544444,
+      1.0,
+      0.8026,
+      0.888285,
+      0.718563
+    ],
+    "seed_bucket": "comedy"
+  },
+  {
+    "tmdb_id": 350,
+    "title": "The Devil Wears Prada",
+    "year": 2006,
+    "runtime": 109,
+    "genres": [
+      "Drama",
+      "Comedy"
+    ],
+    "genre_ids": [
+      18,
+      35
+    ],
+    "rating": 7.423,
+    "vote_count": 13580,
+    "popularity": 170.1878,
+    "poster_url": "https://image.tmdb.org/t/p/w500/8912AsVuS7Sj915apArUFbv6F9L.jpg",
+    "overview": "A young woman from the Midwest gets more than she bargained for when she moves to New York to become a writer and ends up as the assistant to the tyrannical, larger-than-life editor-in-chief of a major fashion magazine.",
+    "feature_vector": [
+      1.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.605556,
+      0.654545,
+      0.7423,
+      0.785008,
+      0.898416
+    ],
+    "seed_bucket": "comedy"
+  },
+  {
+    "tmdb_id": 1327819,
+    "title": "Hoppers",
+    "year": 2026,
+    "runtime": 104,
+    "genres": [
+      "Adventure",
+      "Animation",
+      "Comedy",
+      "Family",
+      "Science Fiction"
+    ],
+    "genre_ids": [
+      12,
+      16,
+      35,
+      10751,
+      878
+    ],
+    "rating": 8.127,
+    "vote_count": 1256,
+    "popularity": 138.0178,
+    "poster_url": "https://image.tmdb.org/t/p/w500/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg",
+    "overview": "Scientists have discovered how to 'hop' human consciousness into lifelike robotic animals, allowing people to communicate with animals as animals. Animal lover Mabel seizes an opportunity to use the technology, uncovering mysteries within the animal world beyond anything she could have imagined.",
+    "feature_vector": [
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      1.0,
+      0.577778,
+      1.0,
+      0.8127,
+      0.753233,
+      0.673733
+    ],
+    "seed_bucket": "comedy"
+  },
+  {
+    "tmdb_id": 1084242,
+    "title": "Zootopia 2",
+    "year": 2025,
+    "runtime": 108,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Animation",
+      "Comedy",
+      "Family",
+      "Mystery"
+    ],
+    "genre_ids": [
+      28,
+      12,
+      16,
+      35,
+      10751,
+      9648
+    ],
+    "rating": 7.644,
+    "vote_count": 2821,
+    "popularity": 84.607,
+    "poster_url": "https://image.tmdb.org/t/p/w500/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg",
+    "overview": "After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find themselves on the twisting trail of a great mystery when Gary De'Snake arrives and turns the animal metropolis upside down. To crack the case, Judy and Nick must go undercover to unexpected new parts of town, where their growing partnership is tested like never before.",
+    "feature_vector": [
+      1.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.6,
+      1.0,
+      0.7644,
+      0.679227,
+      0.750081
+    ],
+    "seed_bucket": "comedy"
+  },
+  {
+    "tmdb_id": 1198994,
+    "title": "Send Help",
+    "year": 2026,
+    "runtime": 113,
+    "genres": [
+      "Horror",
+      "Thriller",
+      "Comedy"
+    ],
+    "genre_ids": [
+      27,
+      53,
+      35
+    ],
+    "rating": 7.047,
+    "vote_count": 1604,
+    "popularity": 47.5464,
+    "poster_url": "https://image.tmdb.org/t/p/w500/mjkS2iAgWj3ik1DTjvI15nHZ7yl.jpg",
+    "overview": "Two colleagues become stranded on a deserted island, the only survivors of a plane crash. On the island, they must overcome past grievances and work together to survive, but ultimately, it's a battle of wills and wits to make it out alive.",
+    "feature_vector": [
+      1.0,
+      0.0,
+      1.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.627778,
+      1.0,
+      0.7047,
+      0.59264,
+      0.696806
+    ],
+    "seed_bucket": "comedy"
+  },
+  {
+    "tmdb_id": 496243,
+    "title": "Parasite",
+    "year": 2019,
+    "runtime": 133,
+    "genres": [
+      "Comedy",
+      "Thriller",
+      "Drama"
+    ],
+    "genre_ids": [
+      35,
+      53,
+      18
+    ],
+    "rating": 8.5,
+    "vote_count": 20632,
+    "popularity": 39.0846,
+    "poster_url": "https://image.tmdb.org/t/p/w500/7IiTTgloJzvGI1TAYymCfbfl3vT.jpg",
+    "overview": "All unemployed, Ki-taek's family takes peculiar interest in the wealthy and glamorous Parks for their livelihood until they get entangled in an unexpected incident.",
+    "feature_vector": [
+      1.0,
+      1.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.738889,
+      0.890909,
+      0.85,
+      0.563405,
+      0.937899
+    ],
+    "seed_bucket": "comedy"
+  },
+  {
+    "tmdb_id": 803796,
+    "title": "KPop Demon Hunters",
+    "year": 2025,
+    "runtime": 96,
+    "genres": [
+      "Fantasy",
+      "Music",
+      "Comedy",
+      "Animation"
+    ],
+    "genre_ids": [
+      14,
+      10402,
+      35,
+      16
+    ],
+    "rating": 8.021,
+    "vote_count": 2805,
+    "popularity": 39.0494,
+    "poster_url": "https://image.tmdb.org/t/p/w500/zT7Lhw3BhJbMkRqm9Zlx2YGMsY0.jpg",
+    "overview": "When K-pop superstars Rumi, Mira and Zoey aren't selling out stadiums, they're using their secret powers to protect their fans from supernatural threats.",
+    "feature_vector": [
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.533333,
+      1.0,
+      0.8021,
+      0.563271,
+      0.749545
+    ],
+    "seed_bucket": "comedy"
+  },
+  {
+    "tmdb_id": 533535,
+    "title": "Deadpool & Wolverine",
+    "year": 2024,
+    "runtime": 128,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Science Fiction"
+    ],
+    "genre_ids": [
+      28,
+      35,
+      878
+    ],
+    "rating": 7.569,
+    "vote_count": 8666,
+    "popularity": 38.3797,
+    "poster_url": "https://image.tmdb.org/t/p/w500/8cdWjvZQUExUUTzyp4t6EDMubfO.jpg",
+    "overview": "A listless Wade Wilson toils away in civilian life with his days as the morally flexible mercenary, Deadpool, behind him. But when his homeworld faces an existential threat, Wade must reluctantly suit-up again with an even more reluctant Wolverine.",
+    "feature_vector": [
+      1.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.711111,
+      0.981818,
+      0.7569,
+      0.560697,
+      0.856013
+    ],
+    "seed_bucket": "comedy"
+  },
+  {
+    "tmdb_id": 502356,
+    "title": "The Super Mario Bros. Movie",
+    "year": 2023,
+    "runtime": 93,
+    "genres": [
+      "Family",
+      "Comedy",
+      "Adventure",
+      "Fantasy",
+      "Animation"
+    ],
+    "genre_ids": [
+      10751,
+      35,
+      12,
+      14,
+      16
+    ],
+    "rating": 7.602,
+    "vote_count": 10747,
+    "popularity": 37.2564,
+    "poster_url": "https://image.tmdb.org/t/p/w500/qNBAXBIQlnOThrVvA6mA2B5ggV6.jpg",
+    "overview": "While working underground to fix a water main, Brooklyn plumbers—and brothers—Mario and Luigi are transported down a mysterious pipe and wander into a magical new world. But when the brothers are separated, Mario embarks on an epic quest to find Luigi.",
+    "feature_vector": [
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.516667,
+      0.963636,
+      0.7602,
+      0.556279,
+      0.876329
+    ],
+    "seed_bucket": "comedy"
+  },
+  {
+    "tmdb_id": 680,
+    "title": "Pulp Fiction",
+    "year": 1994,
+    "runtime": 154,
+    "genres": [
+      "Thriller",
+      "Crime",
+      "Comedy"
+    ],
+    "genre_ids": [
+      53,
+      80,
+      35
+    ],
+    "rating": 8.484,
+    "vote_count": 30200,
+    "popularity": 36.8495,
+    "poster_url": "https://image.tmdb.org/t/p/w500/vQWk5YBFWF4bZaofAbv0tShwBvQ.jpg",
+    "overview": "A burger-loving hit man, his philosophical partner, a drug-addled gangster's moll and a washed-up boxer converge in this sprawling, comedic crime caper. Their adventures unfurl in three stories that ingeniously trip back and forth in time.",
+    "feature_vector": [
+      1.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.855556,
+      0.436364,
+      0.8484,
+      0.554647,
+      0.973866
+    ],
+    "seed_bucket": "comedy"
+  },
+  {
+    "tmdb_id": 1168190,
+    "title": "The Wrecking Crew",
+    "year": 2026,
+    "runtime": 125,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Crime",
+      "Mystery"
+    ],
+    "genre_ids": [
+      28,
+      35,
+      80,
+      9648
+    ],
+    "rating": 6.958,
+    "vote_count": 1019,
+    "popularity": 36.528,
+    "poster_url": "https://image.tmdb.org/t/p/w500/gbVwHl4YPSq6BcC92TQpe7qUTh6.jpg",
+    "overview": "Estranged half-brothers Jonny and James reunite after their father's mysterious death. As they search for the truth, buried secrets reveal a conspiracy threatening to tear their family apart.",
+    "feature_vector": [
+      1.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.694444,
+      1.0,
+      0.6958,
+      0.553345,
+      0.654009
+    ],
+    "seed_bucket": "comedy"
+  },
+  {
+    "tmdb_id": 13,
+    "title": "Forrest Gump",
+    "year": 1994,
+    "runtime": 142,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "genre_ids": [
+      35,
+      18,
+      10749
+    ],
+    "rating": 8.465,
+    "vote_count": 29749,
+    "popularity": 34.1886,
+    "poster_url": "https://image.tmdb.org/t/p/w500/Cw4hIUIAmSYfK9QfaUW5igp9La.jpg",
+    "overview": "A man with a low IQ has accomplished great things in his life and been present during significant historic events—in each case, far exceeding what anyone imagined he could do. But despite all he has achieved, his one true love eludes him.",
+    "feature_vector": [
+      1.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.788889,
+      0.436364,
+      0.8465,
+      0.54352,
+      0.972446
+    ],
+    "seed_bucket": "comedy"
+  },
+  {
+    "tmdb_id": 1022789,
+    "title": "Inside Out 2",
+    "year": 2024,
+    "runtime": 97,
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Comedy",
+      "Family"
+    ],
+    "genre_ids": [
+      16,
+      12,
+      35,
+      10751
+    ],
+    "rating": 7.546,
+    "vote_count": 6686,
+    "popularity": 30.117,
+    "poster_url": "https://image.tmdb.org/t/p/w500/vpnVM9B6NMmQpWeZvzLvDESb2QY.jpg",
+    "overview": "Teenager Riley's mind headquarters is undergoing a sudden demolition to make room for something entirely unexpected: new Emotions! Joy, Sadness, Anger, Fear and Disgust, who’ve long been running a successful operation by all accounts, aren’t sure how to feel when Anxiety shows up. And it looks like she’s not alone.",
+    "feature_vector": [
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.538889,
+      0.981818,
+      0.7546,
+      0.52475,
+      0.831528
+    ],
+    "seed_bucket": "comedy"
+  },
+  {
+    "tmdb_id": 1234731,
+    "title": "Anaconda",
+    "year": 2025,
+    "runtime": 100,
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Horror"
+    ],
+    "genre_ids": [
+      12,
+      35,
+      27
+    ],
+    "rating": 5.901,
+    "vote_count": 1173,
+    "popularity": 30.9653,
+    "poster_url": "https://image.tmdb.org/t/p/w500/hBxN6dwrANN1ic3a4G9x6JZcR3C.jpg",
+    "overview": "A group of friends facing mid-life crises head to the rainforest with the intention of remaking their favorite movie from their youth, only to find themselves in a fight for their lives against natural disasters, giant snakes and violent criminals.",
+    "feature_vector": [
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.555556,
+      1.0,
+      0.5901,
+      0.528855,
+      0.667284
+    ],
+    "seed_bucket": "comedy"
+  },
+  {
+    "tmdb_id": 808,
+    "title": "Shrek",
+    "year": 2001,
+    "runtime": 90,
+    "genres": [
+      "Animation",
+      "Comedy",
+      "Fantasy",
+      "Adventure",
+      "Family"
+    ],
+    "genre_ids": [
+      16,
+      35,
+      14,
+      12,
+      10751
+    ],
+    "rating": 7.762,
+    "vote_count": 18750,
+    "popularity": 30.8477,
+    "poster_url": "https://image.tmdb.org/t/p/w500/iB64vpL3dIObOtMZgX3RqdVdQDc.jpg",
+    "overview": "It ain't easy bein' green -- especially if you're a likable (albeit smelly) ogre named Shrek. On a mission to retrieve a gorgeous princess from the clutches of a fire-breathing dragon, Shrek teams up with an unlikely compatriot -- a wisecracking donkey.",
+    "feature_vector": [
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.5,
+      0.563636,
+      0.7762,
+      0.528293,
+      0.928869
+    ],
+    "seed_bucket": "comedy"
+  },
+  {
+    "tmdb_id": 862,
+    "title": "Toy Story",
+    "year": 1995,
+    "runtime": 81,
+    "genres": [
+      "Family",
+      "Comedy",
+      "Animation",
+      "Adventure"
+    ],
+    "genre_ids": [
+      10751,
+      35,
+      16,
+      12
+    ],
+    "rating": 8.0,
+    "vote_count": 19874,
+    "popularity": 29.7193,
+    "poster_url": "https://image.tmdb.org/t/p/w500/uXDfjJbdP4ijW5hWSBrPrlKpxab.jpg",
+    "overview": "Led by Woody, Andy's toys live happily in his room until Andy's birthday brings Buzz Lightyear onto the scene. Afraid of losing his place in Andy's heart, Woody plots against Buzz. But when circumstances separate Buzz and Woody from their owner, the duo eventually learns to put aside their differences.",
+    "feature_vector": [
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.45,
+      0.454545,
+      0.8,
+      0.522786,
+      0.934365
+    ],
+    "seed_bucket": "comedy"
+  },
+  {
+    "tmdb_id": 1241982,
+    "title": "Moana 2",
+    "year": 2024,
+    "runtime": 100,
+    "genres": [
+      "Adventure",
+      "Animation",
+      "Comedy",
+      "Family",
+      "Fantasy"
+    ],
+    "genre_ids": [
+      12,
+      16,
+      35,
+      10751,
+      14
+    ],
+    "rating": 7.0,
+    "vote_count": 3070,
+    "popularity": 27.1566,
+    "poster_url": "https://image.tmdb.org/t/p/w500/aLVkiINlIeCkcZIzb7XHzPYgO6L.jpg",
+    "overview": "After receiving an unexpected call from her wayfinding ancestors, Moana journeys alongside Maui and a new crew to the far seas of Oceania and into dangerous, long-lost waters for an adventure unlike anything she's ever faced.",
+    "feature_vector": [
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.555556,
+      0.981818,
+      0.7,
+      0.50949,
+      0.758064
+    ],
+    "seed_bucket": "comedy"
+  },
+  {
+    "tmdb_id": 939243,
+    "title": "Sonic the Hedgehog 3",
+    "year": 2024,
+    "runtime": 110,
+    "genres": [
+      "Action",
+      "Science Fiction",
+      "Comedy",
+      "Family"
+    ],
+    "genre_ids": [
+      28,
+      878,
+      35,
+      10751
+    ],
+    "rating": 7.615,
+    "vote_count": 3282,
+    "popularity": 27.5355,
+    "poster_url": "https://image.tmdb.org/t/p/w500/d8Ryb8AunYAuycVKDp5HpdWPKgC.jpg",
+    "overview": "Sonic, Knuckles, and Tails reunite against a powerful new adversary, Shadow, a mysterious villain with powers unlike anything they have faced before. With their abilities outmatched in every way, Team Sonic must seek out an unlikely alliance in hopes of stopping Shadow and protecting the planet.",
+    "feature_vector": [
+      1.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.611111,
+      0.981818,
+      0.7615,
+      0.51153,
+      0.764366
+    ],
+    "seed_bucket": "comedy"
+  },
+  {
+    "tmdb_id": 150540,
+    "title": "Inside Out",
+    "year": 2015,
+    "runtime": 95,
+    "genres": [
+      "Animation",
+      "Family",
+      "Adventure",
+      "Drama",
+      "Comedy"
+    ],
+    "genre_ids": [
+      16,
+      10751,
+      12,
+      18,
+      35
+    ],
+    "rating": 7.9,
+    "vote_count": 23442,
+    "popularity": 27.1109,
+    "poster_url": "https://image.tmdb.org/t/p/w500/2H1TmgdfNtsKlU9jKdeNyYL5y8T.jpg",
+    "overview": "When 11-year-old Riley moves to a new city, her Emotions team up to help her through the transition. Joy, Fear, Anger, Disgust and Sadness work together, but when Joy and Sadness get lost, they must journey through unfamiliar places to get back home.",
+    "feature_vector": [
+      1.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.527778,
+      0.818182,
+      0.79,
+      0.509242,
+      0.949953
+    ],
+    "seed_bucket": "comedy"
+  },
+  {
+    "tmdb_id": 11013,
+    "title": "Secretary",
+    "year": 2002,
+    "runtime": 111,
+    "genres": [
+      "Romance",
+      "Drama",
+      "Comedy"
+    ],
+    "genre_ids": [
+      10749,
+      18,
+      35
+    ],
+    "rating": 6.8,
+    "vote_count": 1910,
+    "popularity": 23.229,
+    "poster_url": "https://image.tmdb.org/t/p/w500/mdRXSE7ho185SZlXj0JSwuecEd3.jpg",
+    "overview": "A young woman, recently released from a mental hospital, gets a job as a secretary to a demanding lawyer, where their employer-employee relationship turns into a sexual, sadomasochistic one.",
+    "feature_vector": [
+      1.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.616667,
+      0.581818,
+      0.68,
+      0.486558,
+      0.71328
+    ],
+    "seed_bucket": "comedy"
+  },
+  {
+    "tmdb_id": 346698,
+    "title": "Barbie",
+    "year": 2023,
+    "runtime": 114,
+    "genres": [
+      "Comedy",
+      "Adventure",
+      "Fantasy"
+    ],
+    "genre_ids": [
+      35,
+      12,
+      14
+    ],
+    "rating": 6.923,
+    "vote_count": 11094,
+    "popularity": 23.382,
+    "poster_url": "https://image.tmdb.org/t/p/w500/iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg",
+    "overview": "Barbie and Ken are having the time of their lives in the colorful and seemingly perfect world of Barbie Land. However, when they get a chance to go to the real world, they soon discover the joys and perils of living among humans.",
+    "feature_vector": [
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.633333,
+      0.963636,
+      0.6923,
+      0.487519,
+      0.879329
+    ],
+    "seed_bucket": "comedy"
+  },
+  {
+    "tmdb_id": 1011985,
+    "title": "Kung Fu Panda 4",
+    "year": 2024,
+    "runtime": 94,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Animation",
+      "Comedy",
+      "Family",
+      "Fantasy"
+    ],
+    "genre_ids": [
+      28,
+      12,
+      16,
+      35,
+      10751,
+      14
+    ],
+    "rating": 7.0,
+    "vote_count": 3500,
+    "popularity": 24.8347,
+    "poster_url": "https://image.tmdb.org/t/p/w500/kDp1vUBnMpe8ak4rjgl3cLELqjU.jpg",
+    "overview": "Po is gearing up to become the spiritual leader of his Valley of Peace, but also needs someone to take his place as Dragon Warrior. As such, he will train a new kung fu practitioner for the spot and will encounter a villain called the Chameleon who conjures villains from the past.",
+    "feature_vector": [
+      1.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.522222,
+      0.981818,
+      0.7,
+      0.496353,
+      0.770436
+    ],
+    "seed_bucket": "comedy"
+  },
+  {
+    "tmdb_id": 269149,
+    "title": "Zootopia",
+    "year": 2016,
+    "runtime": 109,
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Family",
+      "Comedy"
+    ],
+    "genre_ids": [
+      16,
+      12,
+      10751,
+      35
+    ],
+    "rating": 7.8,
+    "vote_count": 18068,
+    "popularity": 22.4289,
+    "poster_url": "https://image.tmdb.org/t/p/w500/hlK0e0wAQ3VLuJcsfIYPvb4JVud.jpg",
+    "overview": "Determined to prove herself, Officer Judy Hopps, the first bunny on Zootopia's police force, jumps at the chance to crack her first case - even if it means partnering with scam-artist fox Nick Wilde to solve the mystery.",
+    "feature_vector": [
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.605556,
+      0.836364,
+      0.78,
+      0.481432,
+      0.925372
+    ],
+    "seed_bucket": "comedy"
+  },
+  {
+    "tmdb_id": 519182,
+    "title": "Despicable Me 4",
+    "year": 2024,
+    "runtime": 94,
+    "genres": [
+      "Action",
+      "Animation",
+      "Comedy",
+      "Family",
+      "Science Fiction"
+    ],
+    "genre_ids": [
+      28,
+      16,
+      35,
+      10751,
+      878
+    ],
+    "rating": 6.989,
+    "vote_count": 3200,
+    "popularity": 23.6801,
+    "poster_url": "https://image.tmdb.org/t/p/w500/wWba3TaojhK7NdycRhoQpsG0FaH.jpg",
+    "overview": "Gru and Lucy and their girls—Margo, Edith and Agnes—welcome a new member to the Gru family, Gru Jr., who is intent on tormenting his dad. Gru also faces a new nemesis in Maxime Le Mal and his femme fatale girlfriend Valentina, forcing the family to go on the run.",
+    "feature_vector": [
+      1.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      1.0,
+      1.0,
+      0.522222,
+      0.981818,
+      0.6989,
+      0.489374,
+      0.761978
+    ],
+    "seed_bucket": "comedy"
+  },
+  {
+    "tmdb_id": 214756,
+    "title": "Ted 2",
+    "year": 2015,
+    "runtime": 115,
+    "genres": [
+      "Comedy",
+      "Fantasy"
+    ],
+    "genre_ids": [
+      35,
+      14
+    ],
+    "rating": 6.322,
+    "vote_count": 7986,
+    "popularity": 22.898,
+    "poster_url": "https://image.tmdb.org/t/p/w500/38C91I7Xft0gyY7BITm8i4yvuRb.jpg",
+    "overview": "Newlywed couple Ted and Tami-Lynn want to have a baby, but in order to qualify to be a parent, Ted will have to prove he's a person in a court of law.",
+    "feature_vector": [
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.638889,
+      0.818182,
+      0.6322,
+      0.484458,
+      0.848299
+    ],
+    "seed_bucket": "comedy"
+  },
+  {
+    "tmdb_id": 1439930,
+    "title": "The Punisher: One Last Kill",
+    "year": 2026,
+    "runtime": 51,
+    "genres": [
+      "Action",
+      "Drama",
+      "Crime"
+    ],
+    "genre_ids": [
+      28,
+      18,
+      80
+    ],
+    "rating": 8.397,
+    "vote_count": 1262,
+    "popularity": 377.4584,
+    "poster_url": "https://image.tmdb.org/t/p/w500/qQclTgLMDvGBuUBFGHRipxkEwWR.jpg",
+    "overview": "As Frank Castle searches for meaning beyond revenge, an unexpected force pulls him back into the fight.",
+    "feature_vector": [
+      0.0,
+      1.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.283333,
+      1.0,
+      0.8397,
+      0.906106,
+      0.674183
+    ],
+    "seed_bucket": "drama"
+  },
+  {
+    "tmdb_id": 249397,
+    "title": "Nymphomaniac: Vol. II",
+    "year": 2013,
+    "runtime": 124,
+    "genres": [
+      "Drama",
+      "Mystery"
+    ],
+    "genre_ids": [
+      18,
+      9648
+    ],
+    "rating": 6.711,
+    "vote_count": 3161,
+    "popularity": 132.0598,
+    "poster_url": "https://image.tmdb.org/t/p/w500/iLUNqgNKuWn667kXCKztSxYbT3k.jpg",
+    "overview": "The continuation of Joe's sexually dictated life delves into the darker aspects of her adult life and what led to her being in Seligman's care.",
+    "feature_vector": [
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.688889,
+      0.781818,
+      0.6711,
+      0.746547,
+      0.760821
+    ],
+    "seed_bucket": "drama"
+  },
+  {
+    "tmdb_id": 744275,
+    "title": "After We Fell",
+    "year": 2021,
+    "runtime": 99,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "genre_ids": [
+      18,
+      10749
+    ],
+    "rating": 7.0,
+    "vote_count": 2739,
+    "popularity": 88.4089,
+    "poster_url": "https://image.tmdb.org/t/p/w500/dU4HfnTEJDf9KvxGS9hgO7BVeju.jpg",
+    "overview": "Just as Tessa's life begins to become unglued, nothing is what she thought it would be. Not her friends nor her family. The only person that she should be able to rely on is Hardin, who is furious when he discovers the massive secret that she's been keeping. Before Tessa makes the biggest decision of her life, everything changes because of revelations about her family.",
+    "feature_vector": [
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.55,
+      0.927273,
+      0.7,
+      0.68586,
+      0.747298
+    ],
+    "seed_bucket": "drama"
+  },
+  {
+    "tmdb_id": 157336,
+    "title": "Interstellar",
+    "year": 2014,
+    "runtime": 169,
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Science Fiction"
+    ],
+    "genre_ids": [
+      12,
+      18,
+      878
+    ],
+    "rating": 8.475,
+    "vote_count": 39832,
+    "popularity": 81.0831,
+    "poster_url": "https://image.tmdb.org/t/p/w500/yQvGrMoipbRoddT0ZR8tPoR7NfX.jpg",
+    "overview": "The adventures of a group of explorers who make use of a newly discovered wormhole to surpass the limitations on human space travel and conquer the vast distances involved in an interstellar voyage.",
+    "feature_vector": [
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.938889,
+      0.8,
+      0.8475,
+      0.67281,
+      1.0
+    ],
+    "seed_bucket": "drama"
+  },
+  {
+    "tmdb_id": 278,
+    "title": "The Shawshank Redemption",
+    "year": 1994,
+    "runtime": 142,
+    "genres": [
+      "Drama",
+      "Crime"
+    ],
+    "genre_ids": [
+      18,
+      80
+    ],
+    "rating": 8.721,
+    "vote_count": 30419,
+    "popularity": 73.8924,
+    "poster_url": "https://image.tmdb.org/t/p/w500/9cqNxx0GxF0bflZmeSMuL5tnGzr.jpg",
+    "overview": "Imprisoned in the 1940s for the double murder of his wife and her lover, upstanding banker Andy Dufresne begins a new life at the Shawshank prison, where he puts his accounting skills to work for an amoral warden. During his long stretch in prison, Dufresne comes to be admired by the other inmates -- including an older prisoner named Red -- for his integrity and unquenchable sense of hope.",
+    "feature_vector": [
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.788889,
+      0.436364,
+      0.8721,
+      0.658816,
+      0.974548
+    ],
+    "seed_bucket": "drama"
+  },
+  {
+    "tmdb_id": 39254,
+    "title": "Real Steel",
+    "year": 2011,
+    "runtime": 127,
+    "genres": [
+      "Action",
+      "Science Fiction",
+      "Drama"
+    ],
+    "genre_ids": [
+      28,
+      878,
+      18
+    ],
+    "rating": 7.088,
+    "vote_count": 9136,
+    "popularity": 59.0832,
+    "poster_url": "https://image.tmdb.org/t/p/w500/4GIeI5K5YdDUkR3mNQBoScpSFEf.jpg",
+    "overview": "Charlie Kenton is a washed-up fighter who retired from the ring when robots took over the sport. After his robot is trashed, he reluctantly teams up with his estranged son to rebuild and train an unlikely contender.",
+    "feature_vector": [
+      0.0,
+      1.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.705556,
+      0.745455,
+      0.7088,
+      0.625185,
+      0.860999
+    ],
+    "seed_bucket": "drama"
+  },
+  {
+    "tmdb_id": 1579,
+    "title": "Apocalypto",
+    "year": 2006,
+    "runtime": 138,
+    "genres": [
+      "Action",
+      "Drama",
+      "History"
+    ],
+    "genre_ids": [
+      28,
+      18,
+      36
+    ],
+    "rating": 7.625,
+    "vote_count": 6339,
+    "popularity": 52.0001,
+    "poster_url": "https://image.tmdb.org/t/p/w500/cRY25Q32kDNPFDkFkxAs6bgCq3L.jpg",
+    "overview": "Set in the Mayan civilization, when a man's idyllic presence is brutally disrupted by a violent invading force, he is taken on a perilous journey to a world ruled by fear and oppression where a harrowing end awaits him. Through a twist of fate and spurred by the power of his love for his woman and his family he will make a desperate break to return home and to ultimately save his way of life.",
+    "feature_vector": [
+      0.0,
+      1.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.766667,
+      0.654545,
+      0.7625,
+      0.606038,
+      0.826497
+    ],
+    "seed_bucket": "drama"
+  },
+  {
+    "tmdb_id": 238,
+    "title": "The Godfather",
+    "year": 1972,
+    "runtime": 175,
+    "genres": [
+      "Drama",
+      "Crime"
+    ],
+    "genre_ids": [
+      18,
+      80
+    ],
+    "rating": 8.687,
+    "vote_count": 22954,
+    "popularity": 47.8459,
+    "poster_url": "https://image.tmdb.org/t/p/w500/3bhkrj58Vtu7enYsRolD1fZdja1.jpg",
+    "overview": "Spanning the years 1945 to 1955, a chronicle of the fictional Italian-American Corleone crime family. When organized crime family patriarch, Vito Corleone barely survives an attempt on his life, his youngest son, Michael steps in to take care of the would-be killers, launching a campaign of bloody revenge.",
+    "feature_vector": [
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.972222,
+      0.036364,
+      0.8687,
+      0.593579,
+      0.947967
+    ],
+    "seed_bucket": "drama"
+  },
+  {
+    "tmdb_id": 337167,
+    "title": "Fifty Shades Freed",
+    "year": 2018,
+    "runtime": 105,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "genre_ids": [
+      18,
+      10749
+    ],
+    "rating": 6.7,
+    "vote_count": 8343,
+    "popularity": 47.3761,
+    "poster_url": "https://image.tmdb.org/t/p/w500/jjPJ4s3DWZZvI4vw8Xfi4Vqa1Q8.jpg",
+    "overview": "Believing they have left behind shadowy figures from their past, newlyweds Christian and Ana fully embrace an inextricable connection and shared life of luxury. But just as she steps into her role as Mrs. Grey and he relaxes into an unfamiliar stability, new threats could jeopardize their happy ending before it even begins.",
+    "feature_vector": [
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.583333,
+      0.872727,
+      0.67,
+      0.592104,
+      0.852428
+    ],
+    "seed_bucket": "drama"
+  },
+  {
+    "tmdb_id": 1010581,
+    "title": "My Fault",
+    "year": 2023,
+    "runtime": 116,
+    "genres": [
+      "Drama",
+      "Romance",
+      "Thriller"
+    ],
+    "genre_ids": [
+      18,
+      10749,
+      53
+    ],
+    "rating": 7.7,
+    "vote_count": 4069,
+    "popularity": 42.8919,
+    "poster_url": "https://image.tmdb.org/t/p/w500/w46Vw536HwNnEzOa7J24YH9DPRS.jpg",
+    "overview": "Noah must leave her city, boyfriend, and friends to move into William Leister's mansion, the flashy and wealthy husband of her mother Rafaela. As a proud and independent 17 year old, Noah resists living in a mansion surrounded by luxury. However, it is there where she meets Nick, her new stepbrother, and the clash of their strong personalities becomes evident from the very beginning.",
+    "feature_vector": [
+      0.0,
+      1.0,
+      1.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.644444,
+      0.963636,
+      0.77,
+      0.577255,
+      0.784653
+    ],
+    "seed_bucket": "drama"
+  },
+  {
+    "tmdb_id": 597,
+    "title": "Titanic",
+    "year": 1997,
+    "runtime": 194,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "genre_ids": [
+      18,
+      10749
+    ],
+    "rating": 7.903,
+    "vote_count": 27150,
+    "popularity": 42.4222,
+    "poster_url": "https://image.tmdb.org/t/p/w500/9xjZS2rlVxm8SFx8kPC3aIGCOYQ.jpg",
+    "overview": "101-year-old Rose DeWitt Bukater tells the story of her life aboard the Titanic, 84 years later. A young Rose boards the ship with her mother and fiancé. Meanwhile, Jack Dawson and Fabrizio De Rossi win third-class tickets aboard the ship. Rose tells the whole story from Titanic's departure through to its death—on its first and last voyage—on April 15, 1912.",
+    "feature_vector": [
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      1.0,
+      0.490909,
+      0.7903,
+      0.575613,
+      0.963816
+    ],
+    "seed_bucket": "drama"
+  },
+  {
+    "tmdb_id": 911430,
+    "title": "F1",
+    "year": 2025,
+    "runtime": 156,
+    "genres": [
+      "Action",
+      "Drama"
+    ],
+    "genre_ids": [
+      28,
+      18
+    ],
+    "rating": 7.8,
+    "vote_count": 3957,
+    "popularity": 40.4357,
+    "poster_url": "https://image.tmdb.org/t/p/w500/vqBmyAj0Xm9LnS1xe1MSlMAJyHq.jpg",
+    "overview": "Racing legend Sonny Hayes is coaxed out of retirement to lead a struggling Formula 1 team—and mentor a young hotshot driver—while chasing one more chance at glory.",
+    "feature_vector": [
+      0.0,
+      1.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.866667,
+      1.0,
+      0.78,
+      0.568465,
+      0.782019
+    ],
+    "seed_bucket": "drama"
+  },
+  {
+    "tmdb_id": 361743,
+    "title": "Top Gun: Maverick",
+    "year": 2022,
+    "runtime": 131,
+    "genres": [
+      "Action",
+      "Drama"
+    ],
+    "genre_ids": [
+      28,
+      18
+    ],
+    "rating": 8.158,
+    "vote_count": 10966,
+    "popularity": 35.4944,
+    "poster_url": "https://image.tmdb.org/t/p/w500/n0YuM4f5lvGAP6MAW2kBIzugXnc.jpg",
+    "overview": "After more than thirty years of service as one of the Navy’s top aviators, and dodging the advancement in rank that would ground him, Pete “Maverick” Mitchell finds himself training a detachment of TOP GUN graduates for a specialized mission the likes of which no living pilot has ever seen.",
+    "feature_vector": [
+      0.0,
+      1.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.727778,
+      0.945455,
+      0.8158,
+      0.549082,
+      0.878234
+    ],
+    "seed_bucket": "drama"
+  },
+  {
+    "tmdb_id": 7451,
+    "title": "xXx",
+    "year": 2002,
+    "runtime": 124,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Thriller",
+      "Crime",
+      "Drama"
+    ],
+    "genre_ids": [
+      28,
+      12,
+      53,
+      80,
+      18
+    ],
+    "rating": 6.0,
+    "vote_count": 4905,
+    "popularity": 35.3315,
+    "poster_url": "https://image.tmdb.org/t/p/w500/xeEw3eLeSFmJgXZzmF2Efww0q3s.jpg",
+    "overview": "Xander Cage is your standard adrenaline junkie with no fear and a lousy attitude. When the US Government \"recruits\" him to go on a mission, he's not exactly thrilled. His mission: to gather information on an organization that may just be planning the destruction of the world, led by the nihilistic Yorgi.",
+    "feature_vector": [
+      0.0,
+      1.0,
+      1.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.688889,
+      0.581818,
+      0.6,
+      0.548399,
+      0.80229
+    ],
+    "seed_bucket": "drama"
+  },
+  {
+    "tmdb_id": 1316092,
+    "title": "\"Wuthering Heights\"",
+    "year": 2026,
+    "runtime": 136,
+    "genres": [
+      "Romance",
+      "Drama"
+    ],
+    "genre_ids": [
+      10749,
+      18
+    ],
+    "rating": 6.639,
+    "vote_count": 1024,
+    "popularity": 33.6916,
+    "poster_url": "https://image.tmdb.org/t/p/w500/3YBce6dTh1D5oCMITXk2S5QhPt.jpg",
+    "overview": "Tragedy strikes when Heathcliff falls in love with Catherine Earnshaw, a woman from a wealthy family in 18th-century England.",
+    "feature_vector": [
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.755556,
+      1.0,
+      0.6639,
+      0.541349,
+      0.654471
+    ],
+    "seed_bucket": "drama"
+  },
+  {
+    "tmdb_id": 216015,
+    "title": "Fifty Shades of Grey",
+    "year": 2015,
+    "runtime": 125,
+    "genres": [
+      "Drama",
+      "Romance",
+      "Thriller"
+    ],
+    "genre_ids": [
+      18,
+      10749,
+      53
+    ],
+    "rating": 5.9,
+    "vote_count": 12377,
+    "popularity": 32.179,
+    "poster_url": "https://image.tmdb.org/t/p/w500/63kGofUkt1Mx0SIL4XI4Z5AoSgt.jpg",
+    "overview": "When college senior Anastasia Steele steps in for her sick roommate to interview prominent businessman Christian Grey for their campus paper, little does she realize the path her life will take. Christian, as enigmatic as he is rich and powerful, finds himself strangely drawn to Ana, and she to him. Though sexually inexperienced, Ana plunges headlong into an affair -- and learns that Christian's true sexual proclivities push the boundaries of pain and pleasure.",
+    "feature_vector": [
+      0.0,
+      1.0,
+      1.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.694444,
+      0.818182,
+      0.59,
+      0.534544,
+      0.88966
+    ],
+    "seed_bucket": "drama"
+  },
+  {
+    "tmdb_id": 550,
+    "title": "Fight Club",
+    "year": 1999,
+    "runtime": 139,
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "genre_ids": [
+      18,
+      53
+    ],
+    "rating": 8.4,
+    "vote_count": 32042,
+    "popularity": 31.9626,
+    "poster_url": "https://image.tmdb.org/t/p/w500/jSziioSwPVrOy9Yow3XhWIBDjq1.jpg",
+    "overview": "A ticking-time-bomb insomniac and a slippery soap salesman channel primal male aggression into a shocking new form of therapy. Their concept catches on, with underground \"fight clubs\" forming in every town, until an eccentric gets in the way and ignites an out-of-control spiral toward oblivion.",
+    "feature_vector": [
+      0.0,
+      1.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.772222,
+      0.527273,
+      0.84,
+      0.533545,
+      0.979455
+    ],
+    "seed_bucket": "drama"
+  },
+  {
+    "tmdb_id": 497,
+    "title": "The Green Mile",
+    "year": 1999,
+    "runtime": 189,
+    "genres": [
+      "Fantasy",
+      "Drama",
+      "Crime"
+    ],
+    "genre_ids": [
+      14,
+      18,
+      80
+    ],
+    "rating": 8.5,
+    "vote_count": 19259,
+    "popularity": 31.0256,
+    "poster_url": "https://image.tmdb.org/t/p/w500/8VG8fDNiy50H4FedGwdSVUPoaJe.jpg",
+    "overview": "A supernatural tale set on death row in a Southern prison, where gentle giant John Coffey possesses the mysterious power to heal people's ailments. When the cell block's head guard, Paul Edgecomb, recognizes Coffey's miraculous gift, he tries desperately to help stave off the condemned man's execution.",
+    "feature_vector": [
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.527273,
+      0.85,
+      0.529143,
+      0.931398
+    ],
+    "seed_bucket": "drama"
+  },
+  {
+    "tmdb_id": 424,
+    "title": "Schindler's List",
+    "year": 1993,
+    "runtime": 195,
+    "genres": [
+      "Drama",
+      "History",
+      "War"
+    ],
+    "genre_ids": [
+      18,
+      36,
+      10752
+    ],
+    "rating": 8.569,
+    "vote_count": 17460,
+    "popularity": 30.7355,
+    "poster_url": "https://image.tmdb.org/t/p/w500/sF1U4EUQS8YHUYjNl3pMGNIQyr0.jpg",
+    "overview": "The true story of how businessman Oskar Schindler saved over a thousand Jewish lives from the Nazis while they worked as slaves in his factory during World War II.",
+    "feature_vector": [
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.418182,
+      0.8569,
+      0.527754,
+      0.92214
+    ],
+    "seed_bucket": "drama"
+  },
+  {
+    "tmdb_id": 979,
+    "title": "Irreversible",
+    "year": 2002,
+    "runtime": 93,
+    "genres": [
+      "Drama",
+      "Thriller",
+      "Crime"
+    ],
+    "genre_ids": [
+      18,
+      53,
+      80
+    ],
+    "rating": 7.183,
+    "vote_count": 3289,
+    "popularity": 29.0376,
+    "poster_url": "https://image.tmdb.org/t/p/w500/rxeDxo8FvZpLu6iplNpxdtAVnfu.jpg",
+    "overview": "A woman’s lover and her ex-boyfriend take justice into their own hands after she becomes the victim of a rapist. Because some acts can’t be undone. Because man is an animal. Because the desire for vengeance is a natural impulse. Because most crimes remain unpunished.",
+    "feature_vector": [
+      0.0,
+      1.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.516667,
+      0.581818,
+      0.7183,
+      0.519361,
+      0.764567
+    ],
+    "seed_bucket": "drama"
+  },
+  {
+    "tmdb_id": 829560,
+    "title": "The Next 365 Days",
+    "year": 2022,
+    "runtime": 112,
+    "genres": [
+      "Romance",
+      "Drama"
+    ],
+    "genre_ids": [
+      10749,
+      18
+    ],
+    "rating": 6.4,
+    "vote_count": 1314,
+    "popularity": 30.1028,
+    "poster_url": "https://image.tmdb.org/t/p/w500/8AWm7iMcsCI3DdGz4YEJtiMDp8Z.jpg",
+    "overview": "Laura and Massimo's relationship hangs in the balance as they try to overcome trust issues while a tenacious Nacho works to push them apart.",
+    "feature_vector": [
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.622222,
+      0.945455,
+      0.64,
+      0.52468,
+      0.677992
+    ],
+    "seed_bucket": "drama"
+  },
+  {
+    "tmdb_id": 872585,
+    "title": "Oppenheimer",
+    "year": 2023,
+    "runtime": 181,
+    "genres": [
+      "Drama",
+      "History"
+    ],
+    "genre_ids": [
+      18,
+      36
+    ],
+    "rating": 8.0,
+    "vote_count": 11770,
+    "popularity": 30.0395,
+    "poster_url": "https://image.tmdb.org/t/p/w500/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg",
+    "overview": "The story of J. Robert Oppenheimer's role in the development of the atomic bomb during World War II.",
+    "feature_vector": [
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.963636,
+      0.8,
+      0.524369,
+      0.884913
+    ],
+    "seed_bucket": "drama"
+  },
+  {
+    "tmdb_id": 372058,
+    "title": "Your Name.",
+    "year": 2016,
+    "runtime": 106,
+    "genres": [
+      "Animation",
+      "Romance",
+      "Drama"
+    ],
+    "genre_ids": [
+      16,
+      10749,
+      18
+    ],
+    "rating": 8.5,
+    "vote_count": 12563,
+    "popularity": 29.4314,
+    "poster_url": "https://image.tmdb.org/t/p/w500/q719jXXEzOoYaps6babgKnONONX.jpg",
+    "overview": "High schoolers Mitsuha and Taki are complete strangers living separate lives. But one night, they suddenly switch places. Mitsuha wakes up in Taki’s body, and he in hers. This bizarre occurrence continues to happen randomly, and the two must adjust their lives around each other.",
+    "feature_vector": [
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      1.0,
+      0.588889,
+      0.836364,
+      0.85,
+      0.521349,
+      0.891068
+    ],
+    "seed_bucket": "drama"
+  },
+  {
+    "tmdb_id": 240,
+    "title": "The Godfather Part II",
+    "year": 1974,
+    "runtime": 202,
+    "genres": [
+      "Drama",
+      "Crime"
+    ],
+    "genre_ids": [
+      18,
+      80
+    ],
+    "rating": 8.571,
+    "vote_count": 13911,
+    "popularity": 29.3618,
+    "poster_url": "https://image.tmdb.org/t/p/w500/hek3koDUyRQk7FIhPXsa6mT2Zc3.jpg",
+    "overview": "In the continuing saga of the Corleone crime family, a young Vito Corleone grows up in Sicily and in 1910s New York. In the 1950s, Michael Corleone attempts to expand the family business into Las Vegas, Hollywood and Cuba.",
+    "feature_vector": [
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.072727,
+      0.8571,
+      0.521,
+      0.900689
+    ],
+    "seed_bucket": "drama"
+  },
+  {
+    "tmdb_id": 10867,
+    "title": "Malena",
+    "year": 2000,
+    "runtime": 108,
+    "genres": [
+      "Drama"
+    ],
+    "genre_ids": [
+      18
+    ],
+    "rating": 7.481,
+    "vote_count": 2620,
+    "popularity": 27.3616,
+    "poster_url": "https://image.tmdb.org/t/p/w500/3OyQTl0IGkbnjDxd3MhztfPE34g.jpg",
+    "overview": "12-year-old Renato experiences three significant events on the same day: the beginning of the Second World War, getting a bike, and witnessing the arrival of the gorgeous Malèna. Through his eyes, we see the curse of beauty and loneliness of Malena, whose husband is presumed dead, and, through his soul, we see his love for her.",
+    "feature_vector": [
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.6,
+      0.545455,
+      0.7481,
+      0.510597,
+      0.743106
+    ],
+    "seed_bucket": "drama"
+  },
+  {
+    "tmdb_id": 1318447,
+    "title": "Apex",
+    "year": 2026,
+    "runtime": 96,
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "genre_ids": [
+      28,
+      53
+    ],
+    "rating": 6.698,
+    "vote_count": 1268,
+    "popularity": 141.4298,
+    "poster_url": "https://image.tmdb.org/t/p/w500/eTp7gSPkSF3Aw79mNx1NkBP1PZT.jpg",
+    "overview": "A grieving woman pushing her limits on a solo adventure in the Australian wild is ensnared in a twisted game with a cunning killer who thinks she's prey.",
+    "feature_vector": [
+      0.0,
+      0.0,
+      1.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.533333,
+      1.0,
+      0.6698,
+      0.756935,
+      0.67463
+    ],
+    "seed_bucket": "thriller"
+  },
+  {
+    "tmdb_id": 1290821,
+    "title": "Shelter",
+    "year": 2026,
+    "runtime": 107,
+    "genres": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "genre_ids": [
+      28,
+      80,
+      53
+    ],
+    "rating": 7.622,
+    "vote_count": 1055,
+    "popularity": 74.9337,
+    "poster_url": "https://image.tmdb.org/t/p/w500/buPFnHZ3xQy6vZEHxbHgL1Pc6CR.jpg",
+    "overview": "A man living in self-imposed exile on a remote island rescues a young girl from a violent storm, setting off a chain of events that forces him out of seclusion to protect her from enemies tied to his past.",
+    "feature_vector": [
+      0.0,
+      0.0,
+      1.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.594444,
+      1.0,
+      0.7622,
+      0.660924,
+      0.657284
+    ],
+    "seed_bucket": "thriller"
+  },
+  {
+    "tmdb_id": 1368166,
+    "title": "The Housemaid",
+    "year": 2025,
+    "runtime": 131,
+    "genres": [
+      "Mystery",
+      "Thriller"
+    ],
+    "genre_ids": [
+      9648,
+      53
+    ],
+    "rating": 7.262,
+    "vote_count": 2200,
+    "popularity": 70.8791,
+    "poster_url": "https://image.tmdb.org/t/p/w500/cWsBscZzwu5brg9YjNkGewRUvJX.jpg",
+    "overview": "Trying to escape her past, Millie Calloway accepts a job as a live-in housemaid for the wealthy Nina and Andrew Winchester. But what begins as a dream job quickly unravels into something far more dangerous—a sexy, seductive game of secrets, scandal, and power.",
+    "feature_vector": [
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.727778,
+      1.0,
+      0.7262,
+      0.652548,
+      0.726618
+    ],
+    "seed_bucket": "thriller"
+  },
+  {
+    "tmdb_id": 840464,
+    "title": "Greenland 2: Migration",
+    "year": 2026,
+    "runtime": 98,
+    "genres": [
+      "Adventure",
+      "Thriller",
+      "Science Fiction"
+    ],
+    "genre_ids": [
+      12,
+      53,
+      878
+    ],
+    "rating": 6.4,
+    "vote_count": 1113,
+    "popularity": 65.9617,
+    "poster_url": "https://image.tmdb.org/t/p/w500/z2tqCJLsw6uEJ8nJV8BsQXGa3dr.jpg",
+    "overview": "Having found the safety of the Greenland bunker after the comet Clarke decimated the Earth, the Garrity family must now risk everything to embark on a perilous journey across the wasteland of Europe to find a new home.",
+    "feature_vector": [
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.544444,
+      1.0,
+      0.64,
+      0.64173,
+      0.662331
+    ],
+    "seed_bucket": "thriller"
+  },
+  {
+    "tmdb_id": 755898,
+    "title": "War of the Worlds",
+    "year": 2025,
+    "runtime": 91,
+    "genres": [
+      "Science Fiction",
+      "Thriller"
+    ],
+    "genre_ids": [
+      878,
+      53
+    ],
+    "rating": 4.104,
+    "vote_count": 1000,
+    "popularity": 59.2297,
+    "poster_url": "https://image.tmdb.org/t/p/w500/yvirUYrva23IudARHn3mMGVxWqM.jpg",
+    "overview": "Will Radford is a top analyst for Homeland Security who tracks potential threats through a mass surveillance program, until one day an attack by an unknown entity leads him to question whether the government is hiding something from him... and from the rest of the world.",
+    "feature_vector": [
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.505556,
+      1.0,
+      0.4104,
+      0.625557,
+      0.652234
+    ],
+    "seed_bucket": "thriller"
+  },
+  {
+    "tmdb_id": 155,
+    "title": "The Dark Knight",
+    "year": 2008,
+    "runtime": 152,
+    "genres": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "genre_ids": [
+      28,
+      80,
+      53
+    ],
+    "rating": 8.531,
+    "vote_count": 35781,
+    "popularity": 48.8874,
+    "poster_url": "https://image.tmdb.org/t/p/w500/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
+    "overview": "Batman raises the stakes in his war on crime. With the help of Lt. Jim Gordon and District Attorney Harvey Dent, Batman sets out to dismantle the remaining criminal organizations that plague the streets. The partnership proves to be effective, but they soon find themselves prey to a reign of chaos unleashed by a rising criminal mastermind known to the terrified citizens of Gotham as the Joker.",
+    "feature_vector": [
+      0.0,
+      0.0,
+      1.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.844444,
+      0.690909,
+      0.8531,
+      0.5968,
+      0.989875
+    ],
+    "seed_bucket": "thriller"
+  },
+  {
+    "tmdb_id": 1171145,
+    "title": "Crime 101",
+    "year": 2026,
+    "runtime": 141,
+    "genres": [
+      "Crime",
+      "Thriller"
+    ],
+    "genre_ids": [
+      80,
+      53
+    ],
+    "rating": 6.98,
+    "vote_count": 1008,
+    "popularity": 46.0203,
+    "poster_url": "https://image.tmdb.org/t/p/w500/tVvpFIoteRHNnoZMhdnwIVwJpCA.jpg",
+    "overview": "When an elusive thief whose high-stakes heists unfold along the iconic 101 freeway in Los Angeles eyes the score of a lifetime, with hopes of this being his final job, his path collides with a disillusioned insurance broker who is facing her own crossroads. Determined to crack the case, a relentless detective closes in on the operation, raising the stakes even higher.",
+    "feature_vector": [
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.783333,
+      1.0,
+      0.698,
+      0.587765,
+      0.652985
+    ],
+    "seed_bucket": "thriller"
+  },
+  {
+    "tmdb_id": 1265609,
+    "title": "War Machine",
+    "year": 2026,
+    "runtime": 110,
+    "genres": [
+      "Action",
+      "Science Fiction",
+      "Thriller"
+    ],
+    "genre_ids": [
+      28,
+      878,
+      53
+    ],
+    "rating": 7.3,
+    "vote_count": 1783,
+    "popularity": 47.8371,
+    "poster_url": "https://image.tmdb.org/t/p/w500/ril8yx5SOmj0KjNlftsdfIp00fr.jpg",
+    "overview": "On one last grueling mission during Army Ranger training, a combat engineer must lead his unit in a fight against a giant otherworldly killing machine.",
+    "feature_vector": [
+      0.0,
+      0.0,
+      1.0,
+      1.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.611111,
+      1.0,
+      0.73,
+      0.593552,
+      0.706788
+    ],
+    "seed_bucket": "thriller"
+  },
+  {
+    "tmdb_id": 1272837,
+    "title": "28 Years Later: The Bone Temple",
+    "year": 2026,
+    "runtime": 109,
+    "genres": [
+      "Horror",
+      "Thriller",
+      "Science Fiction"
+    ],
+    "genre_ids": [
+      27,
+      53,
+      878
+    ],
+    "rating": 7.117,
+    "vote_count": 1232,
+    "popularity": 37.1702,
+    "poster_url": "https://image.tmdb.org/t/p/w500/kK1BGkG3KAvWB0WMV1DfOx9yTMZ.jpg",
+    "overview": "Dr. Kelson finds himself in a shocking new relationship - with consequences that could change the world as they know it - and Spike's encounter with Jimmy Crystal becomes a nightmare he can't escape.",
+    "feature_vector": [
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      1.0,
+      0.0,
+      1.0,
+      0.0,
+      0.605556,
+      1.0,
+      0.7117,
+      0.555935,
+      0.671913
+    ],
+    "seed_bucket": "thriller"
+  },
+  {
+    "tmdb_id": 425274,
+    "title": "Now You See Me: Now You Don't",
+    "year": 2025,
+    "runtime": 113,
+    "genres": [
+      "Crime",
+      "Thriller"
+    ],
+    "genre_ids": [
+      80,
+      53
+    ],
+    "rating": 6.507,
+    "vote_count": 1516,
+    "popularity": 35.6593,
+    "poster_url": "https://image.tmdb.org/t/p/w500/oD3Eey4e4Z259XLm3eD3WGcoJAh.jpg",
+    "overview": "The original Four Horsemen reunite with a new generation of illusionists to take on powerful diamond heiress Veronika Vanderberg, who leads a criminal empire built on money laundering and trafficking. The new and old magicians must overcome their differences to work together on their most ambitious heist yet.",
+    "feature_vector": [
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.627778,
+      1.0,
+      0.6507,
+      0.54977,
+      0.691482
+    ],
+    "seed_bucket": "thriller"
+  },
+  {
+    "tmdb_id": 1233413,
+    "title": "Sinners",
+    "year": 2025,
+    "runtime": 138,
+    "genres": [
+      "Horror",
+      "Action",
+      "Thriller"
+    ],
+    "genre_ids": [
+      27,
+      28,
+      53
+    ],
+    "rating": 7.5,
+    "vote_count": 4534,
+    "popularity": 33.4755,
+    "poster_url": "https://image.tmdb.org/t/p/w500/oucvKATkCI77ngtPjxAI9SAZW42.jpg",
+    "overview": "Trying to leave their troubled lives behind, twin brothers return to their hometown to start again, only to discover that an even greater evil is waiting to welcome them back.",
+    "feature_vector": [
+      0.0,
+      0.0,
+      1.0,
+      1.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.766667,
+      1.0,
+      0.75,
+      0.540395,
+      0.794866
+    ],
+    "seed_bucket": "thriller"
+  },
+  {
+    "tmdb_id": 396535,
+    "title": "Train to Busan",
+    "year": 2016,
+    "runtime": 118,
+    "genres": [
+      "Horror",
+      "Thriller",
+      "Action",
+      "Adventure"
+    ],
+    "genre_ids": [
+      27,
+      53,
+      28,
+      12
+    ],
+    "rating": 7.749,
+    "vote_count": 8367,
+    "popularity": 31.5899,
+    "poster_url": "https://image.tmdb.org/t/p/w500/vNVFt6dtcqnI7hqa6LFBUibuFiw.jpg",
+    "overview": "When a zombie virus pushes Korea into a state of emergency, those trapped on an express train to Busan must fight for their own survival.",
+    "feature_vector": [
+      0.0,
+      0.0,
+      1.0,
+      1.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.655556,
+      0.836364,
+      0.7749,
+      0.531809,
+      0.852699
+    ],
+    "seed_bucket": "thriller"
+  },
+  {
+    "tmdb_id": 950396,
+    "title": "The Gorge",
+    "year": 2025,
+    "runtime": 128,
+    "genres": [
+      "Romance",
+      "Science Fiction",
+      "Thriller"
+    ],
+    "genre_ids": [
+      10749,
+      878,
+      53
+    ],
+    "rating": 7.635,
+    "vote_count": 3718,
+    "popularity": 30.4159,
+    "poster_url": "https://image.tmdb.org/t/p/w500/7iMBZzVZtG0oBug4TfqDb9ZxAOa.jpg",
+    "overview": "Two highly trained operatives grow close from a distance after being sent to guard opposite sides of a mysterious gorge. When an evil below emerges, they must work together to survive what lies within.",
+    "feature_vector": [
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      1.0,
+      1.0,
+      0.0,
+      0.711111,
+      1.0,
+      0.7635,
+      0.526209,
+      0.776139
+    ],
+    "seed_bucket": "thriller"
+  },
+  {
+    "tmdb_id": 575265,
+    "title": "Mission: Impossible - The Final Reckoning",
+    "year": 2025,
+    "runtime": 170,
+    "genres": [
+      "Action",
+      "Thriller",
+      "Adventure"
+    ],
+    "genre_ids": [
+      28,
+      53,
+      12
+    ],
+    "rating": 7.2,
+    "vote_count": 2808,
+    "popularity": 29.6267,
+    "poster_url": "https://image.tmdb.org/t/p/w500/z53D72EAOxGRqdr7KXXWp9dJiDe.jpg",
+    "overview": "Ethan Hunt and team continue their search for the terrifying AI known as the Entity — which has infiltrated intelligence networks all over the globe — with the world's governments and a mysterious ghost from Hunt's past on their trail. Joined by new allies and armed with the means to shut the Entity down for good, Hunt is in a race against time to prevent the world as we know it from changing forever.",
+    "feature_vector": [
+      0.0,
+      0.0,
+      1.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.944444,
+      1.0,
+      0.72,
+      0.522326,
+      0.749646
+    ],
+    "seed_bucket": "thriller"
+  },
+  {
+    "tmdb_id": 218,
+    "title": "The Terminator",
+    "year": 1984,
+    "runtime": 108,
+    "genres": [
+      "Action",
+      "Thriller",
+      "Science Fiction"
+    ],
+    "genre_ids": [
+      28,
+      53,
+      878
+    ],
+    "rating": 7.682,
+    "vote_count": 14595,
+    "popularity": 29.1839,
+    "poster_url": "https://image.tmdb.org/t/p/w500/qvktm0BHcnmDpul4Hz01GIazWPr.jpg",
+    "overview": "In the post-apocalyptic future, reigning tyrannical supercomputers teleport a cyborg assassin known as the \"Terminator\" back to 1984 to kill Sarah Connor, whose unborn son is destined to lead insurgents against 21st century mechanical hegemony. Meanwhile, the human-resistance movement dispatches a lone warrior to safeguard Sarah. Can he stop the virtually indestructible killing machine?",
+    "feature_vector": [
+      0.0,
+      0.0,
+      1.0,
+      1.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.6,
+      0.254545,
+      0.7682,
+      0.520103,
+      0.90522
+    ],
+    "seed_bucket": "thriller"
+  },
+  {
+    "tmdb_id": 1306368,
+    "title": "The Rip",
+    "year": 2026,
+    "runtime": 113,
+    "genres": [
+      "Action",
+      "Thriller",
+      "Crime"
+    ],
+    "genre_ids": [
+      28,
+      53,
+      80
+    ],
+    "rating": 7.07,
+    "vote_count": 1621,
+    "popularity": 28.5106,
+    "poster_url": "https://image.tmdb.org/t/p/w500/eZo31Dhl5BQ6GfbMNf3oU0tUvPZ.jpg",
+    "overview": "Trust frays when a team of Miami cops discovers millions in cash inside a run-down stash house, calling everyone — and everything — into question.",
+    "feature_vector": [
+      0.0,
+      0.0,
+      1.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.627778,
+      1.0,
+      0.707,
+      0.516659,
+      0.6978
+    ],
+    "seed_bucket": "thriller"
+  },
+  {
+    "tmdb_id": 414906,
+    "title": "The Batman",
+    "year": 2022,
+    "runtime": 177,
+    "genres": [
+      "Crime",
+      "Mystery",
+      "Thriller"
+    ],
+    "genre_ids": [
+      80,
+      9648,
+      53
+    ],
+    "rating": 7.661,
+    "vote_count": 11925,
+    "popularity": 27.3737,
+    "poster_url": "https://image.tmdb.org/t/p/w500/74xTEgt7R36Fpooo50r9T25onhq.jpg",
+    "overview": "In his second year of fighting crime, Batman uncovers corruption in Gotham City that connects to his own family while facing a serial killer known as the Riddler.",
+    "feature_vector": [
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.983333,
+      0.945455,
+      0.7661,
+      0.510662,
+      0.886148
+    ],
+    "seed_bucket": "thriller"
+  },
+  {
+    "tmdb_id": 637649,
+    "title": "Wrath of Man",
+    "year": 2021,
+    "runtime": 119,
+    "genres": [
+      "Thriller",
+      "Crime",
+      "Drama"
+    ],
+    "genre_ids": [
+      53,
+      80,
+      18
+    ],
+    "rating": 7.574,
+    "vote_count": 6091,
+    "popularity": 27.1526,
+    "poster_url": "https://image.tmdb.org/t/p/w500/M7SUK85sKjaStg4TKhlAVyGlz3.jpg",
+    "overview": "A cold and mysterious new security guard for a Los Angeles cash truck company surprises his co-workers when he unleashes precision skills during a heist. The crew is left wondering who he is and where he came from. Soon, the marksman's ultimate motive becomes clear as he takes dramatic and irrevocable steps to settle a score.",
+    "feature_vector": [
+      0.0,
+      1.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.661111,
+      0.927273,
+      0.7574,
+      0.509468,
+      0.82273
+    ],
+    "seed_bucket": "thriller"
+  },
+  {
+    "tmdb_id": 1197306,
+    "title": "A Working Man",
+    "year": 2025,
+    "runtime": 116,
+    "genres": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "genre_ids": [
+      28,
+      80,
+      53
+    ],
+    "rating": 6.688,
+    "vote_count": 1915,
+    "popularity": 27.1232,
+    "poster_url": "https://image.tmdb.org/t/p/w500/6FRFIogh3zFnVWn7Z6zcYnIbRcX.jpg",
+    "overview": "Levon Cade left behind a decorated military career in the black ops to live a simple life working construction. But when his boss's daughter, who is like family to him, is taken by human traffickers, his search to bring her home uncovers a world of corruption far greater than he ever could have imagined.",
+    "feature_vector": [
+      0.0,
+      0.0,
+      1.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.644444,
+      1.0,
+      0.6688,
+      0.509309,
+      0.713527
+    ],
+    "seed_bucket": "thriller"
+  },
+  {
+    "tmdb_id": 244786,
+    "title": "Whiplash",
+    "year": 2014,
+    "runtime": 107,
+    "genres": [
+      "Drama",
+      "Music",
+      "Thriller"
+    ],
+    "genre_ids": [
+      18,
+      10402,
+      53
+    ],
+    "rating": 8.4,
+    "vote_count": 16618,
+    "popularity": 26.3278,
+    "poster_url": "https://image.tmdb.org/t/p/w500/7fn624j5lj3xTme2SgiLCeuedmO.jpg",
+    "overview": "Under the direction of a ruthless instructor, a talented young drummer begins to pursue perfection at any cost, even his humanity.",
+    "feature_vector": [
+      0.0,
+      1.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.594444,
+      0.8,
+      0.84,
+      0.504929,
+      0.917474
+    ],
+    "seed_bucket": "thriller"
+  },
+  {
+    "tmdb_id": 385687,
+    "title": "Fast X",
+    "year": 2023,
+    "runtime": 142,
+    "genres": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "genre_ids": [
+      28,
+      80,
+      53
+    ],
+    "rating": 7.0,
+    "vote_count": 6319,
+    "popularity": 26.2024,
+    "poster_url": "https://image.tmdb.org/t/p/w500/fiVW06jE7z9YnO4trhaMEdclSiC.jpg",
+    "overview": "Over many missions and against impossible odds, Dom Toretto and his family have outsmarted, out-nerved and outdriven every foe in their path. Now, they confront the most lethal opponent they've ever faced: A terrifying threat emerging from the shadows of the past who's fueled by blood revenge, and who is determined to shatter this family and destroy everything—and everyone—that Dom loves, forever.",
+    "feature_vector": [
+      0.0,
+      0.0,
+      1.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.788889,
+      0.963636,
+      0.7,
+      0.504227,
+      0.826199
+    ],
+    "seed_bucket": "thriller"
+  },
+  {
+    "tmdb_id": 807,
+    "title": "Se7en",
+    "year": 1995,
+    "runtime": 127,
+    "genres": [
+      "Crime",
+      "Mystery",
+      "Thriller"
+    ],
+    "genre_ids": [
+      80,
+      9648,
+      53
+    ],
+    "rating": 8.4,
+    "vote_count": 23076,
+    "popularity": 26.1827,
+    "poster_url": "https://image.tmdb.org/t/p/w500/191nKfP0ehp3uIvWqgPbFmI4lv9.jpg",
+    "overview": "Two homicide detectives are on a desperate hunt for a serial killer whose crimes are based on the \"seven deadly sins\" in this dark and haunting film that takes viewers from the tortured remains of one victim to the next. The seasoned Det. Somerset researches each sin in an effort to get inside the killer's mind, while his novice partner, Mills, scoffs at his efforts to unravel the case.",
+    "feature_vector": [
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.705556,
+      0.454545,
+      0.84,
+      0.504117,
+      0.948467
+    ],
+    "seed_bucket": "thriller"
+  },
+  {
+    "tmdb_id": 603692,
+    "title": "John Wick: Chapter 4",
+    "year": 2023,
+    "runtime": 170,
+    "genres": [
+      "Action",
+      "Thriller",
+      "Crime"
+    ],
+    "genre_ids": [
+      28,
+      53,
+      80
+    ],
+    "rating": 7.706,
+    "vote_count": 7916,
+    "popularity": 25.7736,
+    "poster_url": "https://image.tmdb.org/t/p/w500/vZloFAK7NmvMGKE7VkF5UHaz0I.jpg",
+    "overview": "With the price on his head ever increasing, John Wick uncovers a path to defeating The High Table. But before he can earn his freedom, Wick must face off against a new enemy with powerful alliances across the globe and forces that turn old friends into foes.",
+    "feature_vector": [
+      0.0,
+      0.0,
+      1.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.944444,
+      0.963636,
+      0.7706,
+      0.501802,
+      0.847468
+    ],
+    "seed_bucket": "thriller"
+  },
+  {
+    "tmdb_id": 72190,
+    "title": "World War Z",
+    "year": 2013,
+    "runtime": 116,
+    "genres": [
+      "Action",
+      "Horror",
+      "Science Fiction",
+      "Thriller"
+    ],
+    "genre_ids": [
+      28,
+      27,
+      878,
+      53
+    ],
+    "rating": 6.832,
+    "vote_count": 16551,
+    "popularity": 25.1467,
+    "poster_url": "https://image.tmdb.org/t/p/w500/aCnVdvExw6UWSeQfr0tUH3jr4qG.jpg",
+    "overview": "Life for former United Nations investigator Gerry Lane and his family seems content. Suddenly, the world is plagued by a mysterious infection turning whole human populations into rampaging mindless zombies. After barely escaping the chaos, Lane is persuaded to go on a mission to investigate this disease. What follows is a perilous trek around the world where Lane must brave horrific dangers and long odds to find answers before human civilization falls.",
+    "feature_vector": [
+      0.0,
+      0.0,
+      1.0,
+      1.0,
+      1.0,
+      0.0,
+      1.0,
+      0.0,
+      0.644444,
+      0.781818,
+      0.6832,
+      0.498185,
+      0.917093
+    ],
+    "seed_bucket": "thriller"
+  },
+  {
+    "tmdb_id": 866398,
+    "title": "The Beekeeper",
+    "year": 2024,
+    "runtime": 106,
+    "genres": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "genre_ids": [
+      28,
+      80,
+      53
+    ],
+    "rating": 7.3,
+    "vote_count": 4225,
+    "popularity": 25.0606,
+    "poster_url": "https://image.tmdb.org/t/p/w500/A7EByudX0eOzlkQ2FIbogzyazm2.jpg",
+    "overview": "One man's campaign for vengeance takes on national stakes after he is revealed to be a former operative of a powerful and clandestine organization known as Beekeepers.",
+    "feature_vector": [
+      0.0,
+      0.0,
+      1.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.588889,
+      0.981818,
+      0.73,
+      0.497682,
+      0.788204
+    ],
+    "seed_bucket": "thriller"
+  },
+  {
+    "tmdb_id": 460465,
+    "title": "Mortal Kombat",
+    "year": 2021,
+    "runtime": 110,
+    "genres": [
+      "Action",
+      "Fantasy",
+      "Adventure"
+    ],
+    "genre_ids": [
+      28,
+      14,
+      12
+    ],
+    "rating": 7.031,
+    "vote_count": 6645,
+    "popularity": 169.6521,
+    "poster_url": "https://image.tmdb.org/t/p/w500/ybrX94xQm8lXYpZAPRmwD9iIbWP.jpg",
+    "overview": "Washed-up MMA fighter Cole Young, unaware of his heritage, and hunted by Emperor Shang Tsung's best warrior, Sub-Zero, seeks out and trains with Earth's greatest champions as he prepares to stand against the enemies of Outworld in a high stakes battle for the universe.",
+    "feature_vector": [
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.611111,
+      0.927273,
+      0.7031,
+      0.784529,
+      0.830947
+    ],
+    "seed_bucket": "action"
+  },
+  {
+    "tmdb_id": 1242898,
+    "title": "Predator: Badlands",
+    "year": 2025,
+    "runtime": 107,
+    "genres": [
+      "Action",
+      "Science Fiction",
+      "Adventure"
+    ],
+    "genre_ids": [
+      28,
+      878,
+      12
+    ],
+    "rating": 7.742,
+    "vote_count": 2948,
+    "popularity": 65.8833,
+    "poster_url": "https://image.tmdb.org/t/p/w500/pHpq9yNUIo6aDoCXEBzjSolywgz.jpg",
+    "overview": "Cast out from his clan, a young Predator finds an unlikely ally in a damaged android and embarks on a treacherous journey in search of the ultimate adversary.",
+    "feature_vector": [
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.594444,
+      1.0,
+      0.7742,
+      0.641552,
+      0.754237
+    ],
+    "seed_bucket": "action"
+  },
+  {
+    "tmdb_id": 24428,
+    "title": "The Avengers",
+    "year": 2012,
+    "runtime": 143,
+    "genres": [
+      "Science Fiction",
+      "Action",
+      "Adventure"
+    ],
+    "genre_ids": [
+      878,
+      28,
+      12
+    ],
+    "rating": 8.032,
+    "vote_count": 38045,
+    "popularity": 55.429,
+    "poster_url": "https://image.tmdb.org/t/p/w500/RYMX2wcKCBAr24UyPD7xwmjaTn.jpg",
+    "overview": "When an unexpected enemy emerges and threatens global safety and security, Nick Fury, director of the international peacekeeping agency known as S.H.I.E.L.D., finds himself in need of a team to pull the world back from the brink of disaster. Spanning the globe, a daring recruitment effort begins!",
+    "feature_vector": [
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.794444,
+      0.763636,
+      0.8032,
+      0.615607,
+      0.995667
+    ],
+    "seed_bucket": "action"
+  },
+  {
+    "tmdb_id": 564,
+    "title": "The Mummy",
+    "year": 1999,
+    "runtime": 124,
+    "genres": [
+      "Adventure",
+      "Action",
+      "Fantasy"
+    ],
+    "genre_ids": [
+      12,
+      28,
+      14
+    ],
+    "rating": 7.0,
+    "vote_count": 10003,
+    "popularity": 53.6303,
+    "poster_url": "https://image.tmdb.org/t/p/w500/yhIsVvcUm7QxzLfT6HW2wLf5ajY.jpg",
+    "overview": "Dashing legionnaire Rick O'Connell stumbles upon the hidden ruins of Hamunaptra while in the midst of a battle to claim the area in 1920s Egypt. It has been over three thousand years since former High Priest Imhotep suffered a fate worse than death as a punishment for a forbidden love—along with a curse that guarantees eternal doom upon the world if he is ever awoken.",
+    "feature_vector": [
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.688889,
+      0.527273,
+      0.7,
+      0.610663,
+      0.869557
+    ],
+    "seed_bucket": "action"
+  },
+  {
+    "tmdb_id": 299536,
+    "title": "Avengers: Infinity War",
+    "year": 2018,
+    "runtime": 149,
+    "genres": [
+      "Adventure",
+      "Action",
+      "Science Fiction"
+    ],
+    "genre_ids": [
+      12,
+      28,
+      878
+    ],
+    "rating": 8.236,
+    "vote_count": 31994,
+    "popularity": 50.6445,
+    "poster_url": "https://image.tmdb.org/t/p/w500/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg",
+    "overview": "As the Avengers and their allies have continued to protect the world from threats too large for any one hero to handle, a new danger has emerged from the cosmic shadows: Thanos. A despot of intergalactic infamy, his goal is to collect all six Infinity Stones, artifacts of unimaginable power, and use them to inflict his twisted will on all of reality. Everything the Avengers have fought for has led up to this moment - the fate of Earth and existence itself has never been more uncertain.",
+    "feature_vector": [
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.827778,
+      0.872727,
+      0.8236,
+      0.602083,
+      0.979314
+    ],
+    "seed_bucket": "action"
+  },
+  {
+    "tmdb_id": 122,
+    "title": "The Lord of the Rings: The Return of the King",
+    "year": 2003,
+    "runtime": 201,
+    "genres": [
+      "Adventure",
+      "Fantasy",
+      "Action"
+    ],
+    "genre_ids": [
+      12,
+      14,
+      28
+    ],
+    "rating": 8.5,
+    "vote_count": 26543,
+    "popularity": 44.5548,
+    "poster_url": "https://image.tmdb.org/t/p/w500/rCzpDGLbOoPwLjy3OAm5NUPOTrC.jpg",
+    "overview": "As armies mass for a final battle that will decide the fate of the world--and powerful, ancient forces of Light and Dark compete to determine the outcome--one member of the Fellowship of the Ring is revealed as the noble heir to the throne of the Kings of Men. Yet, the sole hope for triumph over evil lies with a brave hobbit, Frodo, who, accompanied by his loyal friend Sam and the hideous, wretched Gollum, ventures deep into the very dark heart of Mordor on his seemingly impossible quest to destroy the Ring of Power.​",
+    "feature_vector": [
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.6,
+      0.85,
+      0.582932,
+      0.961681
+    ],
+    "seed_bucket": "action"
+  },
+  {
+    "tmdb_id": 634649,
+    "title": "Spider-Man: No Way Home",
+    "year": 2021,
+    "runtime": 148,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Science Fiction"
+    ],
+    "genre_ids": [
+      28,
+      12,
+      878
+    ],
+    "rating": 7.935,
+    "vote_count": 21985,
+    "popularity": 42.3524,
+    "poster_url": "https://image.tmdb.org/t/p/w500/1g0dhYtq4irTY1GPXvft6k4YLjm.jpg",
+    "overview": "Peter Parker is unmasked and no longer able to separate his normal life from the high-stakes of being a super-hero. When he asks for help from Doctor Strange the stakes become even more dangerous, forcing him to discover what it truly means to be Spider-Man.",
+    "feature_vector": [
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.822222,
+      0.927273,
+      0.7935,
+      0.575368,
+      0.943895
+    ],
+    "seed_bucket": "action"
+  },
+  {
+    "tmdb_id": 603,
+    "title": "The Matrix",
+    "year": 1999,
+    "runtime": 136,
+    "genres": [
+      "Action",
+      "Science Fiction"
+    ],
+    "genre_ids": [
+      28,
+      878
+    ],
+    "rating": 8.246,
+    "vote_count": 27888,
+    "popularity": 40.7289,
+    "poster_url": "https://image.tmdb.org/t/p/w500/aOIuZAjPaRIE6CMzbazvcHuHXDc.jpg",
+    "overview": "Set in the 22nd century, The Matrix tells the story of a computer hacker who joins a group of underground insurgents fighting the vast and powerful computers who now rule the earth.",
+    "feature_vector": [
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.755556,
+      0.527273,
+      0.8246,
+      0.569541,
+      0.966347
+    ],
+    "seed_bucket": "action"
+  },
+  {
+    "tmdb_id": 120,
+    "title": "The Lord of the Rings: The Fellowship of the Ring",
+    "year": 2001,
+    "runtime": 179,
+    "genres": [
+      "Adventure",
+      "Fantasy",
+      "Action"
+    ],
+    "genre_ids": [
+      12,
+      14,
+      28
+    ],
+    "rating": 8.435,
+    "vote_count": 27548,
+    "popularity": 40.536,
+    "poster_url": "https://image.tmdb.org/t/p/w500/6oom5QYQ2yQTMJIbnvbkBL9cHo6.jpg",
+    "overview": "Young hobbit Frodo Baggins, after inheriting a mysterious ring from his uncle Bilbo, must leave his home in order to keep it from falling into the hands of its evil creator. Along the way, a fellowship is formed to protect the ringbearer and make sure that the ring arrives at its final destination: Mt. Doom, the only place where it can be destroyed.",
+    "feature_vector": [
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.994444,
+      0.563636,
+      0.8435,
+      0.568834,
+      0.965189
+    ],
+    "seed_bucket": "action"
+  },
+  {
+    "tmdb_id": 27205,
+    "title": "Inception",
+    "year": 2010,
+    "runtime": 148,
+    "genres": [
+      "Action",
+      "Science Fiction",
+      "Adventure"
+    ],
+    "genre_ids": [
+      28,
+      878,
+      12
+    ],
+    "rating": 8.372,
+    "vote_count": 39264,
+    "popularity": 38.8802,
+    "poster_url": "https://image.tmdb.org/t/p/w500/xlaY2zyzMfkhk0HSC5VUwzoZPU1.jpg",
+    "overview": "Cobb, a skilled thief who commits corporate espionage by infiltrating the subconscious of his targets is offered a chance to regain his old life as payment for a task considered to be impossible: \"inception\", the implantation of another person's idea into a target's subconscious.",
+    "feature_vector": [
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.822222,
+      0.727273,
+      0.8372,
+      0.562625,
+      0.998644
+    ],
+    "seed_bucket": "action"
+  },
+  {
+    "tmdb_id": 299534,
+    "title": "Avengers: Endgame",
+    "year": 2019,
+    "runtime": 181,
+    "genres": [
+      "Adventure",
+      "Science Fiction",
+      "Action"
+    ],
+    "genre_ids": [
+      12,
+      878,
+      28
+    ],
+    "rating": 8.2,
+    "vote_count": 27746,
+    "popularity": 37.0007,
+    "poster_url": "https://image.tmdb.org/t/p/w500/ulzhLuWrPK07P1YkdWQLZnQh1JL.jpg",
+    "overview": "After the devastating events of Avengers: Infinity War, the universe is in ruins due to the efforts of the Mad Titan, Thanos. With the help of remaining allies, the Avengers must assemble once more in order to undo Thanos' actions and restore order to the universe once and for all, no matter what consequences may be in store.",
+    "feature_vector": [
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      1.0,
+      0.890909,
+      0.82,
+      0.555256,
+      0.965866
+    ],
+    "seed_bucket": "action"
+  },
+  {
+    "tmdb_id": 1234821,
+    "title": "Jurassic World Rebirth",
+    "year": 2025,
+    "runtime": 134,
+    "genres": [
+      "Science Fiction",
+      "Adventure",
+      "Action"
+    ],
+    "genre_ids": [
+      878,
+      12,
+      28
+    ],
+    "rating": 6.3,
+    "vote_count": 3358,
+    "popularity": 35.2627,
+    "poster_url": "https://image.tmdb.org/t/p/w500/1RICxzeoNCAO5NpcRMIgg1XT6fm.jpg",
+    "overview": "Five years after the events of Jurassic World Dominion, covert operations expert Zora Bennett is contracted to lead a skilled team on a top-secret mission to secure genetic material from the world's three most massive dinosaurs. When Zora's operation intersects with a civilian family whose boating expedition was capsized, they all find themselves stranded on an island where they come face-to-face with a sinister, shocking discovery that's been hidden from the world for decades.",
+    "feature_vector": [
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.744444,
+      1.0,
+      0.63,
+      0.54811,
+      0.766527
+    ],
+    "seed_bucket": "action"
+  },
+  {
+    "tmdb_id": 1734,
+    "title": "The Mummy Returns",
+    "year": 2001,
+    "runtime": 130,
+    "genres": [
+      "Adventure",
+      "Action",
+      "Fantasy"
+    ],
+    "genre_ids": [
+      12,
+      28,
+      14
+    ],
+    "rating": 6.404,
+    "vote_count": 7676,
+    "popularity": 34.5372,
+    "poster_url": "https://image.tmdb.org/t/p/w500/kdJsW7hcy1lrj7tdMPycTAQPAiR.jpg",
+    "overview": "Rick and Evelyn O’Connell, along with their 8-year-old son Alex, discover the key to the legendary Scorpion King’s might: the fabled Bracelet of Anubis. Unfortunately, a newly resurrected Imhotep has designs on the bracelet as well, and isn’t above kidnapping its new bearer, Alex, to gain control of Anubis’s otherworldly army.",
+    "feature_vector": [
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.722222,
+      0.563636,
+      0.6404,
+      0.545025,
+      0.844562
+    ],
+    "seed_bucket": "action"
+  },
+  {
+    "tmdb_id": 19995,
+    "title": "Avatar",
+    "year": 2009,
+    "runtime": 162,
+    "genres": [
+      "Science Fiction",
+      "Action",
+      "Adventure"
+    ],
+    "genre_ids": [
+      878,
+      28,
+      12
+    ],
+    "rating": 7.605,
+    "vote_count": 33971,
+    "popularity": 33.7514,
+    "poster_url": "https://image.tmdb.org/t/p/w500/gKY6q7SjCkAU6FqvqWybDYgUKIF.jpg",
+    "overview": "In the 22nd century, a paraplegic Marine is dispatched to the moon Pandora on a unique mission, but becomes torn between following orders and protecting an alien civilization.",
+    "feature_vector": [
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.9,
+      0.709091,
+      0.7605,
+      0.541612,
+      0.984974
+    ],
+    "seed_bucket": "action"
+  },
+  {
+    "tmdb_id": 11,
+    "title": "Star Wars",
+    "year": 1977,
+    "runtime": 121,
+    "genres": [
+      "Adventure",
+      "Action",
+      "Science Fiction"
+    ],
+    "genre_ids": [
+      12,
+      28,
+      878
+    ],
+    "rating": 8.2,
+    "vote_count": 22317,
+    "popularity": 33.2458,
+    "poster_url": "https://image.tmdb.org/t/p/w500/6FfCtAuVAW8XJjZ7eWeLibRLWTw.jpg",
+    "overview": "Princess Leia is captured and held hostage by the evil Imperial forces in their effort to take over the galactic Empire. Venturesome Luke Skywalker and dashing captain Han Solo team together with the loveable robot duo R2-D2 and C-3PO to rescue the beautiful princess and restore peace and justice in the Empire.",
+    "feature_vector": [
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.672222,
+      0.127273,
+      0.82,
+      0.539375,
+      0.94531
+    ],
+    "seed_bucket": "action"
+  },
+  {
+    "tmdb_id": 22,
+    "title": "Pirates of the Caribbean: The Curse of the Black Pearl",
+    "year": 2003,
+    "runtime": 143,
+    "genres": [
+      "Adventure",
+      "Fantasy",
+      "Action"
+    ],
+    "genre_ids": [
+      12,
+      14,
+      28
+    ],
+    "rating": 7.824,
+    "vote_count": 22227,
+    "popularity": 29.4501,
+    "poster_url": "https://image.tmdb.org/t/p/w500/kvDwL2gTf6yxujbsWbsGQB3Z9Wa.jpg",
+    "overview": "When wily pirate Captain Barbossa seizes Jack Sparrow’s beloved ship, the Black Pearl, and kidnaps the governor’s daughter, Elizabeth Swann, blacksmith Will Turner reluctantly teams up with the unpredictable pirate Jack to rescue her—only to uncover a terrifying curse that turns Barbossa’s crew into the undead.",
+    "feature_vector": [
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.794444,
+      0.6,
+      0.7824,
+      0.521443,
+      0.944928
+    ],
+    "seed_bucket": "action"
+  },
+  {
+    "tmdb_id": 10138,
+    "title": "Iron Man 2",
+    "year": 2010,
+    "runtime": 124,
+    "genres": [
+      "Adventure",
+      "Action",
+      "Science Fiction"
+    ],
+    "genre_ids": [
+      12,
+      28,
+      878
+    ],
+    "rating": 6.9,
+    "vote_count": 22371,
+    "popularity": 31.3963,
+    "poster_url": "https://image.tmdb.org/t/p/w500/6WBeq4fCfn7AN0o21W9qNcRF2l9.jpg",
+    "overview": "With the world now aware of his dual life as the armored superhero Iron Man, billionaire inventor Tony Stark faces pressure from the government, the press and the public to share his technology with the military. Unwilling to let go of his invention, Stark, with Pepper Potts and James 'Rhodey' Rhodes at his side, must forge new alliances – and confront powerful enemies.",
+    "feature_vector": [
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.688889,
+      0.727273,
+      0.69,
+      0.5309,
+      0.945538
+    ],
+    "seed_bucket": "action"
+  },
+  {
+    "tmdb_id": 557,
+    "title": "Spider-Man",
+    "year": 2002,
+    "runtime": 121,
+    "genres": [
+      "Action",
+      "Science Fiction"
+    ],
+    "genre_ids": [
+      28,
+      878
+    ],
+    "rating": 7.329,
+    "vote_count": 20655,
+    "popularity": 31.2495,
+    "poster_url": "https://image.tmdb.org/t/p/w500/kjdJntyBeEvqm9w97QGBdxPptzj.jpg",
+    "overview": "After being bitten by a genetically altered spider at Oscorp, nerdy but endearing high school student Peter Parker is endowed with amazing powers to become the superhero known as Spider-Man.",
+    "feature_vector": [
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.672222,
+      0.581818,
+      0.7329,
+      0.530207,
+      0.938004
+    ],
+    "seed_bucket": "action"
+  },
+  {
+    "tmdb_id": 315635,
+    "title": "Spider-Man: Homecoming",
+    "year": 2017,
+    "runtime": 133,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Science Fiction"
+    ],
+    "genre_ids": [
+      28,
+      12,
+      878
+    ],
+    "rating": 7.33,
+    "vote_count": 23156,
+    "popularity": 31.1948,
+    "poster_url": "https://image.tmdb.org/t/p/w500/c24sv2weTHPsmDa7jEMN0m2P3RT.jpg",
+    "overview": "Following the events of Captain America: Civil War, Peter Parker, with the help of his mentor Tony Stark, tries to balance his life as an ordinary high school student in Queens, New York City, with fighting crime as his superhero alter ego Spider-Man as a new threat, the Vulture, emerges.",
+    "feature_vector": [
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.738889,
+      0.854545,
+      0.733,
+      0.529947,
+      0.948794
+    ],
+    "seed_bucket": "action"
+  },
+  {
+    "tmdb_id": 569094,
+    "title": "Spider-Man: Across the Spider-Verse",
+    "year": 2023,
+    "runtime": 140,
+    "genres": [
+      "Animation",
+      "Action",
+      "Adventure",
+      "Science Fiction"
+    ],
+    "genre_ids": [
+      16,
+      28,
+      12,
+      878
+    ],
+    "rating": 8.335,
+    "vote_count": 8603,
+    "popularity": 30.9665,
+    "poster_url": "https://image.tmdb.org/t/p/w500/8Vt6mWEReuy4Of61Lnj5Xj704m8.jpg",
+    "overview": "After reuniting with Gwen Stacy, Brooklyn’s full-time, friendly neighborhood Spider-Man is catapulted across the Multiverse, where he encounters the Spider Society, a team of Spider-People charged with protecting the Multiverse's very existence. But when the heroes clash on how to handle a new threat, Miles finds himself pitted against the other Spiders and must set out on his own to save those he loves most.",
+    "feature_vector": [
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      1.0,
+      1.0,
+      0.777778,
+      0.963636,
+      0.8335,
+      0.528861,
+      0.855324
+    ],
+    "seed_bucket": "action"
+  },
+  {
+    "tmdb_id": 1061474,
+    "title": "Superman",
+    "year": 2025,
+    "runtime": 130,
+    "genres": [
+      "Science Fiction",
+      "Adventure",
+      "Action"
+    ],
+    "genre_ids": [
+      878,
+      12,
+      28
+    ],
+    "rating": 7.344,
+    "vote_count": 4783,
+    "popularity": 30.689,
+    "poster_url": "https://image.tmdb.org/t/p/w500/ldyfo0BKmz5rWtJJKCvwaNS4cJT.jpg",
+    "overview": "Superman, a journalist in Metropolis, embarks on a journey to reconcile his Kryptonian heritage with his human upbringing as Clark Kent.",
+    "feature_vector": [
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.722222,
+      1.0,
+      0.7344,
+      0.52753,
+      0.799912
+    ],
+    "seed_bucket": "action"
+  },
+  {
+    "tmdb_id": 429617,
+    "title": "Spider-Man: Far From Home",
+    "year": 2019,
+    "runtime": 129,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Science Fiction"
+    ],
+    "genre_ids": [
+      28,
+      12,
+      878
+    ],
+    "rating": 7.4,
+    "vote_count": 16941,
+    "popularity": 27.0422,
+    "poster_url": "https://image.tmdb.org/t/p/w500/4q2NNj4S5dG2RLF9CpXsej7yXl.jpg",
+    "overview": "Peter Parker and his friends go on a summer trip to Europe. However, they will hardly be able to rest - Peter will have to agree to help Nick Fury uncover the mystery of creatures that cause natural disasters and destruction throughout the continent.",
+    "feature_vector": [
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.716667,
+      0.890909,
+      0.74,
+      0.508868,
+      0.919292
+    ],
+    "seed_bucket": "action"
+  },
+  {
+    "tmdb_id": 324857,
+    "title": "Spider-Man: Into the Spider-Verse",
+    "year": 2018,
+    "runtime": 117,
+    "genres": [
+      "Animation",
+      "Action",
+      "Adventure",
+      "Science Fiction"
+    ],
+    "genre_ids": [
+      16,
+      28,
+      12,
+      878
+    ],
+    "rating": 8.393,
+    "vote_count": 17215,
+    "popularity": 25.2877,
+    "poster_url": "https://image.tmdb.org/t/p/w500/iiZZdoQBEYBv6id8su7ImL0oCbD.jpg",
+    "overview": "Struggling to find his place in the world while juggling school and family, Brooklyn teenager Miles Morales is unexpectedly bitten by a radioactive spider and develops unfathomable powers just like the one and only Spider-Man. While wrestling with the implications of his new abilities, Miles discovers a super collider created by the madman Wilson \"Kingpin\" Fisk, causing others from across the Spider-Verse to be inadvertently transported to his dimension.",
+    "feature_vector": [
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      1.0,
+      1.0,
+      0.65,
+      0.872727,
+      0.8393,
+      0.499006,
+      0.920806
+    ],
+    "seed_bucket": "action"
+  },
+  {
+    "tmdb_id": 76600,
+    "title": "Avatar: The Way of Water",
+    "year": 2022,
+    "runtime": 192,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Science Fiction"
+    ],
+    "genre_ids": [
+      28,
+      12,
+      878
+    ],
+    "rating": 7.593,
+    "vote_count": 14118,
+    "popularity": 25.1971,
+    "poster_url": "https://image.tmdb.org/t/p/w500/t6HIqrRAclMCA60NsSmeqe9RmNV.jpg",
+    "overview": "Set more than a decade after the events of the first film, learn the story of the Sully family (Jake, Neytiri, and their kids), the trouble that follows them, the lengths they go to keep each other safe, the battles they fight to stay alive, and the tragedies they endure.",
+    "feature_vector": [
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      1.0,
+      0.945455,
+      0.7593,
+      0.498479,
+      0.902084
+    ],
+    "seed_bucket": "action"
+  },
+  {
+    "tmdb_id": 1087192,
+    "title": "How to Train Your Dragon",
+    "year": 2025,
+    "runtime": 125,
+    "genres": [
+      "Fantasy",
+      "Family",
+      "Action",
+      "Adventure"
+    ],
+    "genre_ids": [
+      14,
+      10751,
+      28,
+      12
+    ],
+    "rating": 7.933,
+    "vote_count": 2836,
+    "popularity": 24.7801,
+    "poster_url": "https://image.tmdb.org/t/p/w500/q5pXRYTycaeW6dEgsCrd4mYPmxM.jpg",
+    "overview": "On the rugged isle of Berk, where Vikings and dragons have been bitter enemies for generations, Hiccup stands apart, defying centuries of tradition when he befriends Toothless, a feared Night Fury dragon. Their unlikely bond reveals the true nature of dragons, challenging the very foundations of Viking society.",
+    "feature_vector": [
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.694444,
+      1.0,
+      0.7933,
+      0.49603,
+      0.750582
+    ],
+    "seed_bucket": "action"
+  },
+  {
+    "tmdb_id": 1304313,
+    "title": "Lee Cronin's The Mummy",
+    "year": 2026,
+    "runtime": 133,
+    "genres": [
+      "Horror",
+      "Mystery"
+    ],
+    "genre_ids": [
+      27,
+      9648
+    ],
+    "rating": 8.1,
+    "vote_count": 1317,
+    "popularity": 699.1013,
+    "poster_url": "https://image.tmdb.org/t/p/w500/uIb9Tvae5haF0XcQBaPyufmxbb0.jpg",
+    "overview": "The young daughter of a journalist disappears into the desert without a trace—eight years later, the broken family is shocked when she is returned to them, as what should be a joyful reunion turns into a living nightmare.",
+    "feature_vector": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.738889,
+      1.0,
+      0.81,
+      1.0,
+      0.678207
+    ],
+    "seed_bucket": "horror"
+  },
+  {
+    "tmdb_id": 1246049,
+    "title": "Dracula",
+    "year": 2025,
+    "runtime": 130,
+    "genres": [
+      "Horror",
+      "Fantasy",
+      "Romance"
+    ],
+    "genre_ids": [
+      27,
+      14,
+      10749
+    ],
+    "rating": 7.124,
+    "vote_count": 1209,
+    "popularity": 48.8336,
+    "poster_url": "https://image.tmdb.org/t/p/w500/dYRqA50yd0nB3qBR7AtWEJJQ8q.jpg",
+    "overview": "In late 15th-century Eastern Europe, Prince Vlad II’s bride is brutally murdered. As a result, he renounces God and damns Heaven itself. Cursed with eternal life, Vlad is reborn as Dracula, an immortal warlord who defies fate in a blood-soaked crusade to wrench his lost love back from death.",
+    "feature_vector": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      1.0,
+      0.0,
+      0.0,
+      0.722222,
+      1.0,
+      0.7124,
+      0.596635,
+      0.670135
+    ],
+    "seed_bucket": "horror"
+  },
+  {
+    "tmdb_id": 1038392,
+    "title": "The Conjuring: Last Rites",
+    "year": 2025,
+    "runtime": 136,
+    "genres": [
+      "Horror"
+    ],
+    "genre_ids": [
+      27
+    ],
+    "rating": 6.9,
+    "vote_count": 1840,
+    "popularity": 46.0396,
+    "poster_url": "https://image.tmdb.org/t/p/w500/byWgphT74ClOVa8EOGzYDkl8DVL.jpg",
+    "overview": "Paranormal investigators Ed and Lorraine Warren take on one last terrifying case involving mysterious entities they must confront.",
+    "feature_vector": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.755556,
+      1.0,
+      0.69,
+      0.587827,
+      0.709757
+    ],
+    "seed_bucket": "horror"
+  },
+  {
+    "tmdb_id": 574475,
+    "title": "Final Destination Bloodlines",
+    "year": 2025,
+    "runtime": 110,
+    "genres": [
+      "Horror",
+      "Mystery"
+    ],
+    "genre_ids": [
+      27,
+      9648
+    ],
+    "rating": 7.038,
+    "vote_count": 2847,
+    "popularity": 24.8258,
+    "poster_url": "https://image.tmdb.org/t/p/w500/6WxhEvFsauuACfv8HyoVX6mZKFj.jpg",
+    "overview": "Plagued by a violent recurring nightmare, college student Stefanie heads home to track down the one person who might be able to break the cycle and save her family from the grisly demise that inevitably awaits them all.",
+    "feature_vector": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.611111,
+      1.0,
+      0.7038,
+      0.4963,
+      0.750947
+    ],
+    "seed_bucket": "horror"
+  },
+  {
+    "tmdb_id": 933260,
+    "title": "The Substance",
+    "year": 2024,
+    "runtime": 141,
+    "genres": [
+      "Horror",
+      "Science Fiction",
+      "Thriller"
+    ],
+    "genre_ids": [
+      27,
+      878,
+      53
+    ],
+    "rating": 7.135,
+    "vote_count": 5999,
+    "popularity": 23.4432,
+    "poster_url": "https://image.tmdb.org/t/p/w500/lqoMzCcZYEFK729d6qzt349fB4o.jpg",
+    "overview": "A fading celebrity decides to use a black market drug, a cell-replicating substance that temporarily creates a younger, better version of herself.",
+    "feature_vector": [
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      1.0,
+      0.0,
+      1.0,
+      0.0,
+      0.783333,
+      0.981818,
+      0.7135,
+      0.487901,
+      0.821294
+    ],
+    "seed_bucket": "horror"
+  },
+  {
+    "tmdb_id": 138843,
+    "title": "The Conjuring",
+    "year": 2013,
+    "runtime": 112,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "genre_ids": [
+      27,
+      53
+    ],
+    "rating": 7.539,
+    "vote_count": 12702,
+    "popularity": 23.2463,
+    "poster_url": "https://image.tmdb.org/t/p/w500/wVYREutTvI2tmxr6ujrHT704wGF.jpg",
+    "overview": "Paranormal investigators Ed and Lorraine Warren work to help a family terrorized by a dark presence in their farmhouse. Forced to confront a powerful entity, the Warrens find themselves caught in the most terrifying case of their lives.",
+    "feature_vector": [
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.622222,
+      0.781818,
+      0.7539,
+      0.486667,
+      0.892106
+    ],
+    "seed_bucket": "horror"
+  },
+  {
+    "tmdb_id": 348,
+    "title": "Alien",
+    "year": 1979,
+    "runtime": 117,
+    "genres": [
+      "Horror",
+      "Science Fiction"
+    ],
+    "genre_ids": [
+      27,
+      878
+    ],
+    "rating": 8.171,
+    "vote_count": 16361,
+    "popularity": 24.4176,
+    "poster_url": "https://image.tmdb.org/t/p/w500/vfrQk5IPloGg1v9Rzbh2Eg3VGyM.jpg",
+    "overview": "During its return to the earth, commercial spaceship Nostromo intercepts a distress signal from a distant planet. When a three-member team of the crew discovers a chamber containing thousands of eggs on the planet, a creature inside one of the eggs attacks an explorer. The entire crew is unaware of the impending nightmare set to descend upon them when the alien parasite planted inside its unfortunate host is birthed.",
+    "feature_vector": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      1.0,
+      0.0,
+      0.65,
+      0.163636,
+      0.8171,
+      0.493868,
+      0.916003
+    ],
+    "seed_bucket": "horror"
+  },
+  {
+    "tmdb_id": 1078605,
+    "title": "Weapons",
+    "year": 2025,
+    "runtime": 129,
+    "genres": [
+      "Horror",
+      "Mystery"
+    ],
+    "genre_ids": [
+      27,
+      9648
+    ],
+    "rating": 7.256,
+    "vote_count": 3401,
+    "popularity": 20.2762,
+    "poster_url": "https://image.tmdb.org/t/p/w500/cpf7vsRZ0MYRQcnLWteD5jK9ymT.jpg",
+    "overview": "When all but one child from the same class mysteriously vanish on the same night at exactly the same time, a community is left questioning who or what is behind their disappearance.",
+    "feature_vector": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.716667,
+      1.0,
+      0.7256,
+      0.46672,
+      0.767728
+    ],
+    "seed_bucket": "horror"
+  },
+  {
+    "tmdb_id": 567609,
+    "title": "Ready or Not",
+    "year": 2019,
+    "runtime": 96,
+    "genres": [
+      "Horror",
+      "Comedy"
+    ],
+    "genre_ids": [
+      27,
+      35
+    ],
+    "rating": 7.067,
+    "vote_count": 5459,
+    "popularity": 21.2951,
+    "poster_url": "https://image.tmdb.org/t/p/w500/oJD9KQFoObZmxAS1je56SIFVNJt.jpg",
+    "overview": "A young bride's wedding night turns into her worst nightmare when her ridiculously rich in-laws force her to play a gruesome game of hide-and-seek.",
+    "feature_vector": [
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.533333,
+      0.890909,
+      0.7067,
+      0.473861,
+      0.81239
+    ],
+    "seed_bucket": "horror"
+  },
+  {
+    "tmdb_id": 43947,
+    "title": "I Spit on Your Grave",
+    "year": 2010,
+    "runtime": 108,
+    "genres": [
+      "Thriller",
+      "Crime",
+      "Horror"
+    ],
+    "genre_ids": [
+      53,
+      80,
+      27
+    ],
+    "rating": 6.508,
+    "vote_count": 2562,
+    "popularity": 20.991,
+    "poster_url": "https://image.tmdb.org/t/p/w500/xDbNbIqsdA1D0W2gve2QRTp4z83.jpg",
+    "overview": "A beautiful woman from the city, Jennifer Hills, rents an isolated cabin in the country to write her latest novel. Soon, a group of local lowlifes subject her to a nightmare of degradation, rape, and violence.",
+    "feature_vector": [
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.6,
+      0.727273,
+      0.6508,
+      0.471764,
+      0.740993
+    ],
+    "seed_bucket": "horror"
+  },
+  {
+    "tmdb_id": 1062722,
+    "title": "Frankenstein",
+    "year": 2025,
+    "runtime": 150,
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "Horror"
+    ],
+    "genre_ids": [
+      18,
+      14,
+      27
+    ],
+    "rating": 7.641,
+    "vote_count": 3449,
+    "popularity": 20.2096,
+    "poster_url": "https://image.tmdb.org/t/p/w500/g4JtvGlQO7DByTI6frUobqvSL3R.jpg",
+    "overview": "Dr. Victor Frankenstein, a brilliant but egotistical scientist, brings a creature to life in a monstrous experiment that ultimately leads to the undoing of both the creator and his tragic creation.",
+    "feature_vector": [
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.833333,
+      1.0,
+      0.7641,
+      0.466242,
+      0.76905
+    ],
+    "seed_bucket": "horror"
+  },
+  {
+    "tmdb_id": 694,
+    "title": "The Shining",
+    "year": 1980,
+    "runtime": 144,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "genre_ids": [
+      27,
+      53
+    ],
+    "rating": 8.204,
+    "vote_count": 18915,
+    "popularity": 20.7031,
+    "poster_url": "https://image.tmdb.org/t/p/w500/uAR0AWqhQL1hQa69UDEbb2rE5Wx.jpg",
+    "overview": "Jack Torrance accepts a caretaker job at the Overlook Hotel, where he, along with his wife Wendy and their son Danny, must live isolated from the rest of the world for the winter. But they aren't prepared for the madness that lurks within.",
+    "feature_vector": [
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.8,
+      0.181818,
+      0.8204,
+      0.469753,
+      0.929696
+    ],
+    "seed_bucket": "horror"
+  },
+  {
+    "tmdb_id": 6312,
+    "title": "Brotherhood of the Wolf",
+    "year": 2001,
+    "runtime": 151,
+    "genres": [
+      "Adventure",
+      "Horror",
+      "Action",
+      "History"
+    ],
+    "genre_ids": [
+      12,
+      27,
+      28,
+      36
+    ],
+    "rating": 6.736,
+    "vote_count": 1719,
+    "popularity": 19.1969,
+    "poster_url": "https://image.tmdb.org/t/p/w500/Ahd4F7azhjsxgXYjVyFmVzJu9LB.jpg",
+    "overview": "In 18th century France, the Chevalier de Fronsac and his Native American friend Mani are sent by the King to the Gevaudan province to investigate the killings of hundreds by a mysterious beast.",
+    "feature_vector": [
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.838889,
+      0.563636,
+      0.6736,
+      0.458774,
+      0.703339
+    ],
+    "seed_bucket": "horror"
+  },
+  {
+    "tmdb_id": 539,
+    "title": "Psycho",
+    "year": 1960,
+    "runtime": 109,
+    "genres": [
+      "Horror",
+      "Thriller",
+      "Mystery"
+    ],
+    "genre_ids": [
+      27,
+      53,
+      9648
+    ],
+    "rating": 8.413,
+    "vote_count": 10983,
+    "popularity": 17.7768,
+    "poster_url": "https://image.tmdb.org/t/p/w500/yz4QVqPx3h1hD1DfqqQkCq3rmxW.jpg",
+    "overview": "When larcenous real estate clerk Marion Crane goes on the lam with a wad of cash and hopes of starting a new life, she ends up at the notorious Bates Motel, where manager Norman Bates cares for his housebound mother.",
+    "feature_vector": [
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.605556,
+      0.0,
+      0.8413,
+      0.447645,
+      0.87838
+    ],
+    "seed_bucket": "horror"
+  },
+  {
+    "tmdb_id": 7131,
+    "title": "Van Helsing",
+    "year": 2004,
+    "runtime": 132,
+    "genres": [
+      "Horror",
+      "Adventure",
+      "Action"
+    ],
+    "genre_ids": [
+      27,
+      12,
+      28
+    ],
+    "rating": 6.4,
+    "vote_count": 6650,
+    "popularity": 17.2252,
+    "poster_url": "https://image.tmdb.org/t/p/w500/gsFun8nATm52aGHeT8ueAel98nE.jpg",
+    "overview": "Famed monster slayer Gabriel Van Helsing is dispatched to Transylvania to assist the last of the Valerious bloodline in defeating Count Dracula. Anna Valerious reveals that Dracula has formed an unholy alliance with Dr. Frankenstein's monster and is hell-bent on exacting a centuries-old curse on her family.",
+    "feature_vector": [
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.733333,
+      0.618182,
+      0.64,
+      0.443094,
+      0.831018
+    ],
+    "seed_bucket": "horror"
+  },
+  {
+    "tmdb_id": 1197137,
+    "title": "Black Phone 2",
+    "year": 2025,
+    "runtime": 114,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "genre_ids": [
+      27,
+      53
+    ],
+    "rating": 6.715,
+    "vote_count": 1106,
+    "popularity": 17.2012,
+    "poster_url": "https://image.tmdb.org/t/p/w500/gFddBLQ8wj9M9O82iPzgX5KVNHz.jpg",
+    "overview": "Four years after defeating The Grabber, Finney Blake is struggling with life after captivity. When his younger sister Gwen begins receiving calls in her dreams from the Black Phone and seeing disturbing visions of three boys being stalked at a winter camp, the siblings become determined to solve the mystery and confront a killer who has grown more powerful in death and more significant to them than either could imagine.",
+    "feature_vector": [
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.633333,
+      1.0,
+      0.6715,
+      0.442892,
+      0.661736
+    ],
+    "seed_bucket": "horror"
+  },
+  {
+    "tmdb_id": 1100988,
+    "title": "28 Years Later",
+    "year": 2025,
+    "runtime": 115,
+    "genres": [
+      "Horror",
+      "Thriller",
+      "Science Fiction"
+    ],
+    "genre_ids": [
+      27,
+      53,
+      878
+    ],
+    "rating": 6.6,
+    "vote_count": 2544,
+    "popularity": 17.0435,
+    "poster_url": "https://image.tmdb.org/t/p/w500/n5FygjEppOvac6yEaowi26nTyw3.jpg",
+    "overview": "Twenty-eight years after the Rage virus outbreak, a heavily-defended island survives connected to the mainland by a single causeway. When one of the group leaves the island into the dark heart of the mainland, he discovers secrets, wonders, and horrors that have mutated not only the infected but other survivors as well.",
+    "feature_vector": [
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      1.0,
+      0.0,
+      1.0,
+      0.0,
+      0.638889,
+      1.0,
+      0.66,
+      0.441564,
+      0.740328
+    ],
+    "seed_bucket": "horror"
+  },
+  {
+    "tmdb_id": 561,
+    "title": "Constantine",
+    "year": 2005,
+    "runtime": 121,
+    "genres": [
+      "Fantasy",
+      "Action",
+      "Horror"
+    ],
+    "genre_ids": [
+      14,
+      28,
+      27
+    ],
+    "rating": 7.154,
+    "vote_count": 8092,
+    "popularity": 17.2749,
+    "poster_url": "https://image.tmdb.org/t/p/w500/vPYgvd2MwHlxTamAOjwVQp4qs1W.jpg",
+    "overview": "John Constantine has literally been to Hell and back. When he teams up with a policewoman to solve the mysterious suicide of her twin sister, their investigation takes them through the world of demons and angels that exists beneath the landscape of contemporary Los Angeles.",
+    "feature_vector": [
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.672222,
+      0.636364,
+      0.7154,
+      0.443509,
+      0.849544
+    ],
+    "seed_bucket": "horror"
+  },
+  {
+    "tmdb_id": 73861,
+    "title": "A Serbian Film",
+    "year": 2010,
+    "runtime": 104,
+    "genres": [
+      "Crime",
+      "Horror",
+      "Thriller"
+    ],
+    "genre_ids": [
+      80,
+      27,
+      53
+    ],
+    "rating": 5.443,
+    "vote_count": 2209,
+    "popularity": 15.7515,
+    "poster_url": "https://image.tmdb.org/t/p/w500/yIQqiw3Az5QYNHLCUoCTtxXH24G.jpg",
+    "overview": "Retired porn star Milos leads a normal family life trying to make ends meet. Presented with the opportunity of a lifetime to financially support his family for the rest of their lives, Milos must participate in one last mysterious film. From then on, Milos is drawn into a maelstrom of unbelievable cruelty and mayhem.",
+    "feature_vector": [
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.577778,
+      0.727273,
+      0.5443,
+      0.430223,
+      0.727003
+    ],
+    "seed_bucket": "horror"
+  },
+  {
+    "tmdb_id": 4232,
+    "title": "Scream",
+    "year": 1996,
+    "runtime": 112,
+    "genres": [
+      "Crime",
+      "Horror",
+      "Mystery"
+    ],
+    "genre_ids": [
+      80,
+      27,
+      9648
+    ],
+    "rating": 7.4,
+    "vote_count": 7942,
+    "popularity": 15.6371,
+    "poster_url": "https://image.tmdb.org/t/p/w500/lr9ZIrmuwVmZhpZuTCW8D9g0ZJe.jpg",
+    "overview": "A year after the murder of her mother, a teenage girl is terrorized by a masked killer who targets her and her friends by using scary movies as part of a deadly game.",
+    "feature_vector": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.622222,
+      0.472727,
+      0.74,
+      0.429177,
+      0.847778
+    ],
+    "seed_bucket": "horror"
+  },
+  {
+    "tmdb_id": 829557,
+    "title": "365 Days: This Day",
+    "year": 2022,
+    "runtime": 110,
+    "genres": [
+      "Romance",
+      "Drama"
+    ],
+    "genre_ids": [
+      10749,
+      18
+    ],
+    "rating": 5.935,
+    "vote_count": 1845,
+    "popularity": 27.1857,
+    "poster_url": "https://image.tmdb.org/t/p/w500/7qU0SOVcQ8BTJLodcAlulUAG16C.jpg",
+    "overview": "Laura and Massimo are back and hotter than ever. But the reunited couple's new beginning is complicated by Massimo’s family ties and a mysterious man who enters Laura’s life to win her heart and trust, at any cost.",
+    "feature_vector": [
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.611111,
+      0.945455,
+      0.5935,
+      0.509647,
+      0.710013
+    ],
+    "seed_bucket": "romance"
+  },
+  {
+    "tmdb_id": 796,
+    "title": "Cruel Intentions",
+    "year": 1999,
+    "runtime": 97,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "genre_ids": [
+      18,
+      10749
+    ],
+    "rating": 6.81,
+    "vote_count": 3568,
+    "popularity": 26.3898,
+    "poster_url": "https://image.tmdb.org/t/p/w500/76cCsRtQ5MJBAqoigojXsLXLJwh.jpg",
+    "overview": "Slaking a thirst for dangerous games, Kathryn challenges her stepbrother, Sebastian, to deflower their headmaster's daughter before the summer ends. If he succeeds, the prize is the chance to bed Kathryn. But if he loses, Kathryn will claim his most prized possession.",
+    "feature_vector": [
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.538889,
+      0.527273,
+      0.681,
+      0.505275,
+      0.772252
+    ],
+    "seed_bucket": "romance"
+  },
+  {
+    "tmdb_id": 537915,
+    "title": "After",
+    "year": 2019,
+    "runtime": 106,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "genre_ids": [
+      18,
+      10749
+    ],
+    "rating": 7.107,
+    "vote_count": 8518,
+    "popularity": 26.3884,
+    "poster_url": "https://image.tmdb.org/t/p/w500/u3B2YKUjWABcxXZ6Nm9h10hLUbh.jpg",
+    "overview": "Tessa Young is a dedicated student, dutiful daughter and loyal girlfriend to her high school sweetheart. Entering her first semester of college, Tessa's guarded world opens up when she meets Hardin Scott, a mysterious and brooding rebel who makes her question all she thought she knew about herself -- and what she wants out of life.",
+    "feature_vector": [
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.588889,
+      0.890909,
+      0.7107,
+      0.505267,
+      0.854387
+    ],
+    "seed_bucket": "romance"
+  },
+  {
+    "tmdb_id": 1156593,
+    "title": "Your Fault",
+    "year": 2024,
+    "runtime": 117,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "genre_ids": [
+      18,
+      10749
+    ],
+    "rating": 7.083,
+    "vote_count": 1549,
+    "popularity": 22.9023,
+    "poster_url": "https://image.tmdb.org/t/p/w500/1sQA7lfcF9yUyoLYC0e6Zo3jmxE.jpg",
+    "overview": "The love between Noah and Nick seems unwavering despite their parents' attempts to separate them. But his job and her entry into college open up their lives to new relationships that will shake the foundations of both their relationship and the Leister family itself.",
+    "feature_vector": [
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.65,
+      0.981818,
+      0.7083,
+      0.484486,
+      0.693514
+    ],
+    "seed_bucket": "romance"
+  },
+  {
+    "tmdb_id": 290098,
+    "title": "The Handmaiden",
+    "year": 2016,
+    "runtime": 145,
+    "genres": [
+      "Thriller",
+      "Drama",
+      "Romance"
+    ],
+    "genre_ids": [
+      53,
+      18,
+      10749
+    ],
+    "rating": 8.187,
+    "vote_count": 4318,
+    "popularity": 22.1907,
+    "poster_url": "https://image.tmdb.org/t/p/w500/dLlH4aNHdnmf62umnInL8xPlPzw.jpg",
+    "overview": "1930s Korea, in the period of Japanese occupation, a new girl, Sook-hee, is hired as a handmaiden to a Japanese heiress, Hideko, who lives a secluded life on a large countryside estate with her domineering Uncle Kouzuki. But the maid has a secret. She is a pickpocket recruited by a swindler posing as a Japanese Count to help him seduce the Lady to steal her fortune.",
+    "feature_vector": [
+      0.0,
+      1.0,
+      1.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.805556,
+      0.836364,
+      0.8187,
+      0.479872,
+      0.790259
+    ],
+    "seed_bucket": "romance"
+  },
+  {
+    "tmdb_id": 19404,
+    "title": "Dilwale Dulhania Le Jayenge",
+    "year": 1995,
+    "runtime": 190,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "genre_ids": [
+      35,
+      18,
+      10749
+    ],
+    "rating": 8.5,
+    "vote_count": 4589,
+    "popularity": 19.0353,
+    "poster_url": "https://image.tmdb.org/t/p/w500/tFbfCkS7q6g96wVoAu8kyr93iPm.jpg",
+    "overview": "Raj is a rich, carefree, happy-go-lucky second generation NRI. Simran is the daughter of Chaudhary Baldev Singh, who in spite of being an NRI is very strict about adherence to Indian values. Simran has left for India to be married to her childhood fiancé. Raj leaves for India with a mission at his hands, to claim his lady love under the noses of her whole family. Thus begins a saga.",
+    "feature_vector": [
+      1.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      1.0,
+      0.454545,
+      0.85,
+      0.457547,
+      0.796004
+    ],
+    "seed_bucket": "romance"
+  },
+  {
+    "tmdb_id": 8966,
+    "title": "Twilight",
+    "year": 2008,
+    "runtime": 122,
+    "genres": [
+      "Fantasy",
+      "Drama",
+      "Romance"
+    ],
+    "genre_ids": [
+      14,
+      18,
+      10749
+    ],
+    "rating": 6.281,
+    "vote_count": 14394,
+    "popularity": 19.0185,
+    "poster_url": "https://image.tmdb.org/t/p/w500/3Gkb6jm6962ADUPaCBqzz9CTbn9.jpg",
+    "overview": "When Bella Swan moves to a small town in the Pacific Northwest, she falls in love with Edward Cullen, a mysterious classmate who reveals himself to be a 108-year-old vampire. Despite Edward's repeated cautions, Bella can't stay away from him, a fatal move that endangers her own life.",
+    "feature_vector": [
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.677778,
+      0.690909,
+      0.6281,
+      0.457419,
+      0.903911
+    ],
+    "seed_bucket": "romance"
+  },
+  {
+    "tmdb_id": 843527,
+    "title": "The Idea of You",
+    "year": 2024,
+    "runtime": 116,
+    "genres": [
+      "Music",
+      "Comedy",
+      "Romance",
+      "Drama"
+    ],
+    "genre_ids": [
+      10402,
+      35,
+      10749,
+      18
+    ],
+    "rating": 7.3,
+    "vote_count": 1945,
+    "popularity": 18.8951,
+    "poster_url": "https://image.tmdb.org/t/p/w500/Y5P4Q3q8nrruZ9aD3wXeJS2Plg.jpg",
+    "overview": "40-year-old single mom Solène begins an unexpected romance with 24-year-old Hayes Campbell, the lead singer of August Moon, the hottest boy band on the planet. As they begin a whirlwind romance, it isn't long before Hayes' superstar status poses unavoidable challenges to their relationship, and Solène soon discovers that life in the glare of his spotlight might be more than she bargained for.",
+    "feature_vector": [
+      1.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.644444,
+      0.981818,
+      0.73,
+      0.456475,
+      0.714993
+    ],
+    "seed_bucket": "romance"
+  },
+  {
+    "tmdb_id": 664413,
+    "title": "365 Days",
+    "year": 2020,
+    "runtime": 114,
+    "genres": [
+      "Romance",
+      "Drama"
+    ],
+    "genre_ids": [
+      10749,
+      18
+    ],
+    "rating": 6.993,
+    "vote_count": 9504,
+    "popularity": 18.7025,
+    "poster_url": "https://image.tmdb.org/t/p/w500/6KwrHucIE3CvNT7kTm2MAlZ4fYF.jpg",
+    "overview": "A woman falls victim to a dominant mafia boss, who imprisons her and gives her one year to fall in love with him.",
+    "feature_vector": [
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.633333,
+      0.909091,
+      0.6993,
+      0.454991,
+      0.864727
+    ],
+    "seed_bucket": "romance"
+  },
+  {
+    "tmdb_id": 402431,
+    "title": "Wicked",
+    "year": 2024,
+    "runtime": 162,
+    "genres": [
+      "Drama",
+      "Romance",
+      "Fantasy"
+    ],
+    "genre_ids": [
+      18,
+      10749,
+      14
+    ],
+    "rating": 6.9,
+    "vote_count": 3030,
+    "popularity": 18.4745,
+    "poster_url": "https://image.tmdb.org/t/p/w500/xDGbZ0JJ3mYaGKy4Nzd9Kph6M9L.jpg",
+    "overview": "In the land of Oz, ostracized and misunderstood green-skinned Elphaba is forced to share a room with the popular aristocrat Glinda at Shiz University, and the two's unlikely friendship is tested as they begin to fulfill their respective destinies as Glinda the Good and the Wicked Witch of the West.",
+    "feature_vector": [
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.9,
+      0.981818,
+      0.69,
+      0.453214,
+      0.756827
+    ],
+    "seed_bucket": "romance"
+  },
+  {
+    "tmdb_id": 11036,
+    "title": "The Notebook",
+    "year": 2004,
+    "runtime": 123,
+    "genres": [
+      "Romance",
+      "Drama"
+    ],
+    "genre_ids": [
+      10749,
+      18
+    ],
+    "rating": 7.887,
+    "vote_count": 12539,
+    "popularity": 18.1219,
+    "poster_url": "https://image.tmdb.org/t/p/w500/rNzQyW4f8B8cQeg7Dgj3n6eT5k9.jpg",
+    "overview": "An epic love story centered around an older man who reads aloud to a woman with Alzheimer's. From a faded notebook, the old man's words bring to life the story about a couple who is separated by World War II, and is then passionately reunited, seven years later, after they have taken different paths.",
+    "feature_vector": [
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.683333,
+      0.618182,
+      0.7887,
+      0.450425,
+      0.890887
+    ],
+    "seed_bucket": "romance"
+  },
+  {
+    "tmdb_id": 18240,
+    "title": "The Proposal",
+    "year": 2009,
+    "runtime": 108,
+    "genres": [
+      "Comedy",
+      "Romance",
+      "Drama"
+    ],
+    "genre_ids": [
+      35,
+      10749,
+      18
+    ],
+    "rating": 7.2,
+    "vote_count": 7489,
+    "popularity": 17.6554,
+    "poster_url": "https://image.tmdb.org/t/p/w500/6stnAm1wSek8ZrislwK4xGTyCnt.jpg",
+    "overview": "When she learns she's in danger of losing her visa status and being deported, overbearing book editor Margaret Tate forces her put-upon assistant, Andrew Paxton, to marry her.",
+    "feature_vector": [
+      1.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.6,
+      0.709091,
+      0.72,
+      0.446655,
+      0.842234
+    ],
+    "seed_bucket": "romance"
+  },
+  {
+    "tmdb_id": 292431,
+    "title": "Love",
+    "year": 2015,
+    "runtime": 134,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "genre_ids": [
+      18,
+      10749
+    ],
+    "rating": 6.454,
+    "vote_count": 2663,
+    "popularity": 17.5509,
+    "poster_url": "https://image.tmdb.org/t/p/w500/yz6lmOmsmYuj6AOLG4LIwK5eJZF.jpg",
+    "overview": "Murphy is an American living in Paris who enters a highly sexually and emotionally charged relationship with the unstable Electra. Unaware of the seismic effect it will have on their relationship, they invite their pretty neighbor into their bed.",
+    "feature_vector": [
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.744444,
+      0.818182,
+      0.6454,
+      0.445797,
+      0.744642
+    ],
+    "seed_bucket": "romance"
+  },
+  {
+    "tmdb_id": 1064213,
+    "title": "Anora",
+    "year": 2024,
+    "runtime": 139,
+    "genres": [
+      "Drama",
+      "Comedy",
+      "Romance"
+    ],
+    "genre_ids": [
+      18,
+      35,
+      10749
+    ],
+    "rating": 7.073,
+    "vote_count": 3154,
+    "popularity": 16.4759,
+    "poster_url": "https://image.tmdb.org/t/p/w500/oN0o3owobFjePDc5vMdLRAd0jkd.jpg",
+    "overview": "A young sex worker from Brooklyn gets her chance at a Cinderella story when she meets and impulsively marries the son of an oligarch. Once the news reaches Russia, her fairytale is threatened as his parents set out to get the marriage annulled.",
+    "feature_vector": [
+      1.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.772222,
+      0.981818,
+      0.7073,
+      0.436685,
+      0.760612
+    ],
+    "seed_bucket": "romance"
+  },
+  {
+    "tmdb_id": 2251,
+    "title": "Unfaithful",
+    "year": 2002,
+    "runtime": 124,
+    "genres": [
+      "Thriller",
+      "Drama",
+      "Romance"
+    ],
+    "genre_ids": [
+      53,
+      18,
+      10749
+    ],
+    "rating": 6.7,
+    "vote_count": 1713,
+    "popularity": 17.0976,
+    "poster_url": "https://image.tmdb.org/t/p/w500/bjiHEhuiwhIygzjczbTPAA07cGc.jpg",
+    "overview": "A New York suburban couple's marriage goes dangerously awry when the wife indulges in an adulterous fling.",
+    "feature_vector": [
+      0.0,
+      1.0,
+      1.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.688889,
+      0.581818,
+      0.67,
+      0.442021,
+      0.703009
+    ],
+    "seed_bucket": "romance"
+  },
+  {
+    "tmdb_id": 744,
+    "title": "Top Gun",
+    "year": 1986,
+    "runtime": 110,
+    "genres": [
+      "Action",
+      "Drama",
+      "Romance"
+    ],
+    "genre_ids": [
+      28,
+      18,
+      10749
+    ],
+    "rating": 7.066,
+    "vote_count": 9556,
+    "popularity": 17.4819,
+    "poster_url": "https://image.tmdb.org/t/p/w500/xUuHj3CgmZQ9P2cMaqQs4J0d4Zc.jpg",
+    "overview": "For Lieutenant Pete 'Maverick' Mitchell and his friend and co-pilot Nick 'Goose' Bradshaw, being accepted into an elite training school for fighter pilots is a dream come true. But a tragedy, as well as personal demons, will threaten Pete's dreams of becoming an ace pilot.",
+    "feature_vector": [
+      0.0,
+      1.0,
+      0.0,
+      1.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.611111,
+      0.290909,
+      0.7066,
+      0.445228,
+      0.865242
+    ],
+    "seed_bucket": "romance"
+  },
+  {
+    "tmdb_id": 1643,
+    "title": "Last Tango in Paris",
+    "year": 1972,
+    "runtime": 129,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "genre_ids": [
+      18,
+      10749
+    ],
+    "rating": 6.9,
+    "vote_count": 1341,
+    "popularity": 16.3423,
+    "poster_url": "https://image.tmdb.org/t/p/w500/dNgdUdNOWfHsZI3lDu6Epig7H2P.jpg",
+    "overview": "A recently widowed American begins an anonymous sexual relationship with a young Parisian woman.",
+    "feature_vector": [
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.716667,
+      0.036364,
+      0.69,
+      0.435514,
+      0.67991
+    ],
+    "seed_bucket": "romance"
+  },
+  {
+    "tmdb_id": 4951,
+    "title": "10 Things I Hate About You",
+    "year": 1999,
+    "runtime": 97,
+    "genres": [
+      "Comedy",
+      "Romance",
+      "Drama"
+    ],
+    "genre_ids": [
+      35,
+      10749,
+      18
+    ],
+    "rating": 7.592,
+    "vote_count": 8904,
+    "popularity": 16.1927,
+    "poster_url": "https://image.tmdb.org/t/p/w500/ujERk3aKABXU3NDXOAxEQYTHe9A.jpg",
+    "overview": "On the first day at his new school, Cameron instantly falls for Bianca, the gorgeous girl of his dreams. The only problem is that Bianca is forbidden to date until her ill-tempered, completely un-dateable older sister Kat goes out, too. In an attempt to solve his problem, Cameron singles out the only guy who could possibly be a match for Kat: a mysterious bad boy with a nasty reputation of his own.",
+    "feature_vector": [
+      1.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.538889,
+      0.527273,
+      0.7592,
+      0.434191,
+      0.858571
+    ],
+    "seed_bucket": "romance"
+  },
+  {
+    "tmdb_id": 2105,
+    "title": "American Pie",
+    "year": 1999,
+    "runtime": 95,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "genre_ids": [
+      35,
+      10749
+    ],
+    "rating": 6.605,
+    "vote_count": 8298,
+    "popularity": 15.8856,
+    "poster_url": "https://image.tmdb.org/t/p/w500/5P68by2Thn8wHAziyWGEw2O7hco.jpg",
+    "overview": "At a high-school party, four friends find that losing their collective virginity isn't as easy as they had thought. But they still believe that they need to do so before college. To motivate themselves, they enter a pact to all \"score\" by their senior prom.",
+    "feature_vector": [
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.527778,
+      0.527273,
+      0.6605,
+      0.43144,
+      0.851917
+    ],
+    "seed_bucket": "romance"
+  },
+  {
+    "tmdb_id": 313369,
+    "title": "La La Land",
+    "year": 2016,
+    "runtime": 129,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "genre_ids": [
+      35,
+      18,
+      10749
+    ],
+    "rating": 7.9,
+    "vote_count": 18101,
+    "popularity": 15.7597,
+    "poster_url": "https://image.tmdb.org/t/p/w500/uDO8zWDhfWwoFdKS4fzkUJt0Rf0.jpg",
+    "overview": "Mia, an aspiring actress, serves lattes to movie stars in between auditions and Sebastian, a jazz musician, scrapes by playing cocktail party gigs in dingy bars, but as success mounts they are faced with decisions that begin to fray the fragile fabric of their love affair, and the dreams they worked so hard to maintain in each other threaten to rip them apart.",
+    "feature_vector": [
+      1.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.716667,
+      0.836364,
+      0.79,
+      0.430298,
+      0.925544
+    ],
+    "seed_bucket": "romance"
+  },
+  {
+    "tmdb_id": 687163,
+    "title": "Project Hail Mary",
+    "year": 2026,
+    "runtime": 157,
+    "genres": [
+      "Science Fiction",
+      "Adventure"
+    ],
+    "genre_ids": [
+      878,
+      12
+    ],
+    "rating": 8.634,
+    "vote_count": 4243,
+    "popularity": 351.8456,
+    "poster_url": "https://image.tmdb.org/t/p/w500/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
+    "overview": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction.",
+    "feature_vector": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.872222,
+      1.0,
+      0.8634,
+      0.89541,
+      0.788605
+    ],
+    "seed_bucket": "scifi"
+  },
+  {
+    "tmdb_id": 83533,
+    "title": "Avatar: Fire and Ash",
+    "year": 2025,
+    "runtime": 198,
+    "genres": [
+      "Science Fiction",
+      "Adventure",
+      "Fantasy"
+    ],
+    "genre_ids": [
+      878,
+      12,
+      14
+    ],
+    "rating": 7.51,
+    "vote_count": 3218,
+    "popularity": 139.7474,
+    "poster_url": "https://image.tmdb.org/t/p/w500/aabwWZWx6z1aYP4PX2ADvbDKktd.jpg",
+    "overview": "In the wake of the devastating war against the RDA and the loss of their eldest son, Jake Sully and Neytiri face a new threat on Pandora: the Ash People, a violent and power-hungry Na'vi tribe led by the ruthless Varang. Jake's family must fight for their survival and the future of Pandora in a conflict that pushes them to their emotional and physical limits.",
+    "feature_vector": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      1.0,
+      1.0,
+      0.751,
+      0.755121,
+      0.762508
+    ],
+    "seed_bucket": "scifi"
+  },
+  {
+    "tmdb_id": 1184918,
+    "title": "The Wild Robot",
+    "year": 2024,
+    "runtime": 102,
+    "genres": [
+      "Family",
+      "Animation",
+      "Science Fiction",
+      "Adventure"
+    ],
+    "genre_ids": [
+      10751,
+      16,
+      878,
+      12
+    ],
+    "rating": 8.311,
+    "vote_count": 6088,
+    "popularity": 29.3193,
+    "poster_url": "https://image.tmdb.org/t/p/w500/eG9lz41mJqsI4J6ubMtVqD26q2J.jpg",
+    "overview": "After a shipwreck, an intelligent robot called Roz is stranded on an uninhabited island. To survive the harsh environment, Roz bonds with the island's animals and cares for an orphaned baby goose.",
+    "feature_vector": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      1.0,
+      0.566667,
+      0.981818,
+      0.8311,
+      0.520786,
+      0.822684
+    ],
+    "seed_bucket": "scifi"
+  },
+  {
+    "tmdb_id": 438631,
+    "title": "Dune",
+    "year": 2021,
+    "runtime": 155,
+    "genres": [
+      "Science Fiction",
+      "Adventure"
+    ],
+    "genre_ids": [
+      878,
+      12
+    ],
+    "rating": 7.781,
+    "vote_count": 14885,
+    "popularity": 27.5539,
+    "poster_url": "https://image.tmdb.org/t/p/w500/gDzOcq0pfeCeqMBwKIJlSmQpjkZ.jpg",
+    "overview": "Paul Atreides, a brilliant and gifted young man born into a great destiny beyond his understanding, must travel to the most dangerous planet in the universe to ensure the future of his family and his people. As malevolent forces explode into conflict over the planet's exclusive supply of the most precious resource in existence-a commodity capable of unlocking humanity's greatest potential-only those who can conquer their fear will survive.",
+    "feature_vector": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.861111,
+      0.927273,
+      0.7781,
+      0.511629,
+      0.907078
+    ],
+    "seed_bucket": "scifi"
+  },
+  {
+    "tmdb_id": 693134,
+    "title": "Dune: Part Two",
+    "year": 2024,
+    "runtime": 167,
+    "genres": [
+      "Science Fiction",
+      "Adventure"
+    ],
+    "genre_ids": [
+      878,
+      12
+    ],
+    "rating": 8.128,
+    "vote_count": 7960,
+    "popularity": 25.9127,
+    "poster_url": "https://image.tmdb.org/t/p/w500/1pdfLvkbY9ohJlCjQH2CZjjYVvJ.jpg",
+    "overview": "Follow the mythic journey of Paul Atreides as he unites with Chani and the Fremen while on a path of revenge against the conspirators who destroyed his family. Facing a choice between the love of his life and the fate of the known universe, Paul endeavors to prevent a terrible future only he can foresee.",
+    "feature_vector": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.927778,
+      0.981818,
+      0.8128,
+      0.502593,
+      0.847992
+    ],
+    "seed_bucket": "scifi"
+  },
+  {
+    "tmdb_id": 1726,
+    "title": "Iron Man",
+    "year": 2008,
+    "runtime": 126,
+    "genres": [
+      "Action",
+      "Science Fiction",
+      "Adventure"
+    ],
+    "genre_ids": [
+      28,
+      878,
+      12
+    ],
+    "rating": 7.7,
+    "vote_count": 28123,
+    "popularity": 24.6016,
+    "poster_url": "https://image.tmdb.org/t/p/w500/78lPtwv72eTNqFW9COBYI0dWDJa.jpg",
+    "overview": "After being held captive in an Afghan cave, billionaire engineer Tony Stark creates a unique weaponized suit of armor to fight evil.",
+    "feature_vector": [
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.7,
+      0.690909,
+      0.77,
+      0.494969,
+      0.96714
+    ],
+    "seed_bucket": "scifi"
+  },
+  {
+    "tmdb_id": 1236153,
+    "title": "Mercy",
+    "year": 2026,
+    "runtime": 99,
+    "genres": [
+      "Science Fiction",
+      "Action",
+      "Thriller"
+    ],
+    "genre_ids": [
+      878,
+      28,
+      53
+    ],
+    "rating": 7.015,
+    "vote_count": 1301,
+    "popularity": 24.5827,
+    "poster_url": "https://image.tmdb.org/t/p/w500/pyok1kZJCfyuFapYXzHcy7BLlQa.jpg",
+    "overview": "In the near future, a detective stands on trial accused of murdering his wife. He has ninety minutes to prove his innocence to the advanced AI Judge he once championed, before it determines his fate.",
+    "feature_vector": [
+      0.0,
+      0.0,
+      1.0,
+      1.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.55,
+      1.0,
+      0.7015,
+      0.494857,
+      0.677054
+    ],
+    "seed_bucket": "scifi"
+  },
+  {
+    "tmdb_id": 9823,
+    "title": "Mortal Kombat: Annihilation",
+    "year": 1997,
+    "runtime": 95,
+    "genres": [
+      "Action",
+      "Fantasy",
+      "Science Fiction"
+    ],
+    "genre_ids": [
+      28,
+      14,
+      878
+    ],
+    "rating": 4.552,
+    "vote_count": 1341,
+    "popularity": 24.5454,
+    "poster_url": "https://image.tmdb.org/t/p/w500/ttryglcY2osWZE3sRYBf3ewTZsW.jpg",
+    "overview": "A group of heroic warriors has only six days to save the planet in \"Mortal Kombat Annihilation.\" To succeed they must survive the most spectacular series of challenges any human, or god, has ever encountered as they battle an evil warlord bent on taking control of Earth.",
+    "feature_vector": [
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.527778,
+      0.490909,
+      0.4552,
+      0.494634,
+      0.67991
+    ],
+    "seed_bucket": "scifi"
+  },
+  {
+    "tmdb_id": 335984,
+    "title": "Blade Runner 2049",
+    "year": 2017,
+    "runtime": 164,
+    "genres": [
+      "Science Fiction",
+      "Drama"
+    ],
+    "genre_ids": [
+      878,
+      18
+    ],
+    "rating": 7.594,
+    "vote_count": 15125,
+    "popularity": 23.9882,
+    "poster_url": "https://image.tmdb.org/t/p/w500/gajva2L0rPYkEWjzgFlBXCAVBE5.jpg",
+    "overview": "Thirty years after the events of the first film, a new blade runner, LAPD Officer K, unearths a long-buried secret that has the potential to plunge what's left of society into chaos. K's discovery leads him on a quest to find Rick Deckard, a former LAPD blade runner who has been missing for 30 years.",
+    "feature_vector": [
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.911111,
+      0.854545,
+      0.7594,
+      0.491267,
+      0.908588
+    ],
+    "seed_bucket": "scifi"
+  },
+  {
+    "tmdb_id": 617126,
+    "title": "The Fantastic 4: First Steps",
+    "year": 2025,
+    "runtime": 115,
+    "genres": [
+      "Science Fiction",
+      "Adventure",
+      "Action"
+    ],
+    "genre_ids": [
+      878,
+      12,
+      28
+    ],
+    "rating": 7.0,
+    "vote_count": 3348,
+    "popularity": 24.0618,
+    "poster_url": "https://image.tmdb.org/t/p/w500/abqOz6EL3yXyOOafCPZxjL1M5bQ.jpg",
+    "overview": "Against the vibrant backdrop of a 1960s-inspired, retro-futuristic world, Marvel's First Family is forced to balance their roles as heroes with the strength of their family bond, while defending Earth from a ravenous space god called Galactus and his enigmatic Herald, Silver Surfer.",
+    "feature_vector": [
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.638889,
+      1.0,
+      0.7,
+      0.491716,
+      0.766245
+    ],
+    "seed_bucket": "scifi"
+  },
+  {
+    "tmdb_id": 68721,
+    "title": "Iron Man 3",
+    "year": 2013,
+    "runtime": 130,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Science Fiction"
+    ],
+    "genre_ids": [
+      28,
+      12,
+      878
+    ],
+    "rating": 6.933,
+    "vote_count": 23414,
+    "popularity": 23.9963,
+    "poster_url": "https://image.tmdb.org/t/p/w500/qhPtAc1TKbMPqNvcdXSOn9Bn7hZ.jpg",
+    "overview": "When Tony Stark's world is torn apart by a formidable terrorist called the Mandarin, he starts an odyssey of rebuilding and retribution.",
+    "feature_vector": [
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.722222,
+      0.781818,
+      0.6933,
+      0.491317,
+      0.94984
+    ],
+    "seed_bucket": "scifi"
+  },
+  {
+    "tmdb_id": 76341,
+    "title": "Mad Max: Fury Road",
+    "year": 2015,
+    "runtime": 121,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Science Fiction"
+    ],
+    "genre_ids": [
+      28,
+      12,
+      878
+    ],
+    "rating": 7.633,
+    "vote_count": 24061,
+    "popularity": 23.7469,
+    "poster_url": "https://image.tmdb.org/t/p/w500/hA2ple9q4qnwxp3hKVNhroipsir.jpg",
+    "overview": "An apocalyptic story set in the furthest reaches of our planet, in a stark desert landscape where humanity is broken, and most everyone is crazed fighting for the necessities of life. Within this world exist two rebels on the run who just might be able to restore order.",
+    "feature_vector": [
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.672222,
+      0.818182,
+      0.7633,
+      0.489786,
+      0.952413
+    ],
+    "seed_bucket": "scifi"
+  },
+  {
+    "tmdb_id": 823464,
+    "title": "Godzilla x Kong: The New Empire",
+    "year": 2024,
+    "runtime": 115,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Science Fiction"
+    ],
+    "genre_ids": [
+      28,
+      12,
+      878
+    ],
+    "rating": 7.051,
+    "vote_count": 4670,
+    "popularity": 23.2443,
+    "poster_url": "https://image.tmdb.org/t/p/w500/z1p34vh7dEOnLDmyCrlUVLuoDzd.jpg",
+    "overview": "Following their explosive showdown, Godzilla and Kong must reunite against a colossal undiscovered threat hidden within our world, challenging their very existence – and our own.",
+    "feature_vector": [
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.638889,
+      0.981818,
+      0.7051,
+      0.486654,
+      0.797656
+    ],
+    "seed_bucket": "scifi"
+  },
+  {
+    "tmdb_id": 198663,
+    "title": "The Maze Runner",
+    "year": 2014,
+    "runtime": 113,
+    "genres": [
+      "Action",
+      "Mystery",
+      "Science Fiction",
+      "Thriller"
+    ],
+    "genre_ids": [
+      28,
+      9648,
+      878,
+      53
+    ],
+    "rating": 7.2,
+    "vote_count": 18089,
+    "popularity": 22.3367,
+    "poster_url": "https://image.tmdb.org/t/p/w500/ode14q7WtDugFDp78fo9lCsmay9.jpg",
+    "overview": "A teenager with no memory of his past finds himself among a group of boys living in a walled enclosure surrounded by a massive, ever-changing maze. As he struggles to adapt to their rules and society, he begins to uncover clues that may lead to escape and the truth behind their confinement.",
+    "feature_vector": [
+      0.0,
+      0.0,
+      1.0,
+      1.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.627778,
+      0.8,
+      0.72,
+      0.48083,
+      0.925481
+    ],
+    "seed_bucket": "scifi"
+  },
+  {
+    "tmdb_id": 10681,
+    "title": "WALL·E",
+    "year": 2008,
+    "runtime": 98,
+    "genres": [
+      "Animation",
+      "Family",
+      "Science Fiction"
+    ],
+    "genre_ids": [
+      16,
+      10751,
+      878
+    ],
+    "rating": 8.112,
+    "vote_count": 20267,
+    "popularity": 22.0963,
+    "poster_url": "https://image.tmdb.org/t/p/w500/hbhFnRzzg6ZDmm8YAmxBnQpQIPh.jpg",
+    "overview": "After hundreds of years doing what he was built for, WALL•E— a robot designed to clean up the earth—discovers a new purpose in life when he meets a sleek search robot named EVE. EVE comes to realize that WALL•E has inadvertently stumbled upon the key to the planet's future, and races back to space to report to the humans. Meanwhile, WALL•E chases EVE across the galaxy and sets into motion one of the most imaginative adventures ever brought to the big screen.",
+    "feature_vector": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      1.0,
+      0.544444,
+      0.690909,
+      0.8112,
+      0.47925,
+      0.936214
+    ],
+    "seed_bucket": "scifi"
+  },
+  {
+    "tmdb_id": 105,
+    "title": "Back to the Future",
+    "year": 1985,
+    "runtime": 116,
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Science Fiction"
+    ],
+    "genre_ids": [
+      12,
+      35,
+      878
+    ],
+    "rating": 8.326,
+    "vote_count": 21797,
+    "popularity": 21.4996,
+    "poster_url": "https://image.tmdb.org/t/p/w500/vN5B5WgYscRGcQpVhHl6p9DDTP0.jpg",
+    "overview": "Eighties teenager Marty McFly is accidentally sent back in time to 1955, inadvertently disrupting his parents' first meeting and attracting his mother's romantic interest. Marty must repair the damage to history by rekindling his parents' romance and - with the help of his eccentric inventor friend Doc Brown - return to 1985.",
+    "feature_vector": [
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.644444,
+      0.272727,
+      0.8326,
+      0.475254,
+      0.943084
+    ],
+    "seed_bucket": "scifi"
+  },
+  {
+    "tmdb_id": 99861,
+    "title": "Avengers: Age of Ultron",
+    "year": 2015,
+    "runtime": 141,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Science Fiction"
+    ],
+    "genre_ids": [
+      28,
+      12,
+      878
+    ],
+    "rating": 7.3,
+    "vote_count": 24420,
+    "popularity": 21.4931,
+    "poster_url": "https://image.tmdb.org/t/p/w500/4ssDuvEDkSArWEdyBl2X5EHvYKU.jpg",
+    "overview": "When Tony Stark tries to jumpstart a dormant peacekeeping program, things go awry and Earth’s Mightiest Heroes are put to the ultimate test as the fate of the planet hangs in the balance. As the villainous Ultron emerges, it is up to The Avengers to stop him from enacting his terrible plans, and soon uneasy alliances and unexpected action pave the way for an epic and unique global adventure.",
+    "feature_vector": [
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.783333,
+      0.818182,
+      0.73,
+      0.47521,
+      0.953811
+    ],
+    "seed_bucket": "scifi"
+  },
+  {
+    "tmdb_id": 798645,
+    "title": "The Running Man",
+    "year": 2025,
+    "runtime": 134,
+    "genres": [
+      "Action",
+      "Thriller",
+      "Science Fiction"
+    ],
+    "genre_ids": [
+      28,
+      53,
+      878
+    ],
+    "rating": 6.8,
+    "vote_count": 1554,
+    "popularity": 20.9444,
+    "poster_url": "https://image.tmdb.org/t/p/w500/dKL78O9zxczVgjtNcQ9UkbYLzqX.jpg",
+    "overview": "Desperate to save his sick daughter, working-class Ben Richards is convinced by The Running Man's charming but ruthless producer to enter the deadly competition game as a last resort. But Ben's defiance, instincts, and grit turn him into an unexpected fan favorite — and a threat to the entire system. As ratings skyrocket, so does the danger, and Ben must outwit not just the Hunters, but a nation addicted to watching him fall.",
+    "feature_vector": [
+      0.0,
+      0.0,
+      1.0,
+      1.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.744444,
+      1.0,
+      0.68,
+      0.47144,
+      0.693818
+    ],
+    "seed_bucket": "scifi"
+  },
+  {
+    "tmdb_id": 552524,
+    "title": "Lilo & Stitch",
+    "year": 2025,
+    "runtime": 108,
+    "genres": [
+      "Family",
+      "Science Fiction",
+      "Comedy"
+    ],
+    "genre_ids": [
+      10751,
+      878,
+      35
+    ],
+    "rating": 7.206,
+    "vote_count": 2157,
+    "popularity": 20.4636,
+    "poster_url": "https://image.tmdb.org/t/p/w500/ckQzKpQJO4ZQDCN5evdpKcfm7Ys.jpg",
+    "overview": "The wildly funny and touching story of a lonely Hawaiian girl and the fugitive alien who helps to mend her broken family.",
+    "feature_vector": [
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.6,
+      1.0,
+      0.7206,
+      0.468059,
+      0.724756
+    ],
+    "seed_bucket": "scifi"
+  },
+  {
+    "tmdb_id": 559,
+    "title": "Spider-Man 3",
+    "year": 2007,
+    "runtime": 139,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Science Fiction"
+    ],
+    "genre_ids": [
+      28,
+      12,
+      878
+    ],
+    "rating": 6.46,
+    "vote_count": 15202,
+    "popularity": 20.034,
+    "poster_url": "https://image.tmdb.org/t/p/w500/qFmwhVUoUSXjkKRmca5yGDEXBIj.jpg",
+    "overview": "The seemingly invincible Spider-Man goes up against an all-new crop of villains—including the shape-shifting Sandman. While Spider-Man’s superpowers are altered by an alien organism, his alter ego, Peter Parker, deals with nemesis Eddie Brock and also gets caught up in a love triangle.",
+    "feature_vector": [
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.772222,
+      0.672727,
+      0.646,
+      0.464973,
+      0.909067
+    ],
+    "seed_bucket": "scifi"
+  },
+  {
+    "tmdb_id": 1007757,
+    "title": "Swapped",
+    "year": 2026,
+    "runtime": 102,
+    "genres": [
+      "Adventure",
+      "Animation",
+      "Family",
+      "Fantasy"
+    ],
+    "genre_ids": [
+      12,
+      16,
+      10751,
+      14
+    ],
+    "rating": 8.974,
+    "vote_count": 1434,
+    "popularity": 302.0875,
+    "poster_url": "https://image.tmdb.org/t/p/w500/tHhxWxge06goXU6ZQH1hj7vK8Hd.jpg",
+    "overview": "A small woodland creature and a majestic bird, two natural sworn enemies of the Valley, magically trade places and set off on an adventure of a lifetime to switch back. Their journey soon uncovers a greater threat—one that could endanger not only their species, but the entire valley they call home.",
+    "feature_vector": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.566667,
+      1.0,
+      0.8974,
+      0.872207,
+      0.686236
+    ],
+    "seed_bucket": "animation"
+  },
+  {
+    "tmdb_id": 129,
+    "title": "Spirited Away",
+    "year": 2001,
+    "runtime": 125,
+    "genres": [
+      "Animation",
+      "Family",
+      "Fantasy"
+    ],
+    "genre_ids": [
+      16,
+      10751,
+      14
+    ],
+    "rating": 8.5,
+    "vote_count": 18318,
+    "popularity": 35.9329,
+    "poster_url": "https://image.tmdb.org/t/p/w500/39wmItIWsg5sZMyRUHLkWBcuVCM.jpg",
+    "overview": "A young girl, Chihiro, becomes trapped in a strange new world of spirits. When her parents undergo a mysterious transformation, she must call upon the courage she never knew she had to free her family.",
+    "feature_vector": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.694444,
+      0.563636,
+      0.85,
+      0.550905,
+      0.926669
+    ],
+    "seed_bucket": "animation"
+  },
+  {
+    "tmdb_id": 14836,
+    "title": "Coraline",
+    "year": 2009,
+    "runtime": 100,
+    "genres": [
+      "Animation",
+      "Family",
+      "Fantasy"
+    ],
+    "genre_ids": [
+      16,
+      10751,
+      14
+    ],
+    "rating": 7.906,
+    "vote_count": 8964,
+    "popularity": 31.0113,
+    "poster_url": "https://image.tmdb.org/t/p/w500/4jeFXQYytChdZYE9JYO7Un87IlW.jpg",
+    "overview": "Wandering her rambling old house in her boring new town, 11-year-old Coraline discovers a hidden door to a strangely idealized version of her life. In order to stay in the fantasy, she must make a frighteningly real sacrifice.",
+    "feature_vector": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.555556,
+      0.709091,
+      0.7906,
+      0.529075,
+      0.859205
+    ],
+    "seed_bucket": "animation"
+  },
+  {
+    "tmdb_id": 8587,
+    "title": "The Lion King",
+    "year": 1994,
+    "runtime": 89,
+    "genres": [
+      "Animation",
+      "Family",
+      "Drama"
+    ],
+    "genre_ids": [
+      16,
+      10751,
+      18
+    ],
+    "rating": 8.254,
+    "vote_count": 19677,
+    "popularity": 23.7175,
+    "poster_url": "https://image.tmdb.org/t/p/w500/sKCr78MXSLixwmZ8DyJLrpMsd15.jpg",
+    "overview": "Young lion prince Simba, eager to one day become king of the Pride Lands, grows up under the watchful eye of his father Mufasa; all the while his villainous uncle Scar conspires to take the throne for himself. Amid betrayal and tragedy, Simba must confront his past and find his rightful place in the Circle of Life.",
+    "feature_vector": [
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.494444,
+      0.436364,
+      0.8254,
+      0.489605,
+      0.933425
+    ],
+    "seed_bucket": "animation"
+  },
+  {
+    "tmdb_id": 177572,
+    "title": "Big Hero 6",
+    "year": 2014,
+    "runtime": 102,
+    "genres": [
+      "Adventure",
+      "Family",
+      "Animation",
+      "Action",
+      "Comedy"
+    ],
+    "genre_ids": [
+      12,
+      10751,
+      16,
+      28,
+      35
+    ],
+    "rating": 7.7,
+    "vote_count": 16573,
+    "popularity": 22.6734,
+    "poster_url": "https://image.tmdb.org/t/p/w500/2mxS4wUimwlLmI1xp6QW6NSU361.jpg",
+    "overview": "A special bond develops between plus-sized inflatable robot Baymax, and prodigy Hiro Hamada, who team up with a group of friends to form a band of high-tech heroes.",
+    "feature_vector": [
+      1.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.566667,
+      0.8,
+      0.77,
+      0.483017,
+      0.917218
+    ],
+    "seed_bucket": "animation"
+  },
+  {
+    "tmdb_id": 863,
+    "title": "Toy Story 2",
+    "year": 1999,
+    "runtime": 92,
+    "genres": [
+      "Animation",
+      "Comedy",
+      "Family"
+    ],
+    "genre_ids": [
+      16,
+      35,
+      10751
+    ],
+    "rating": 7.606,
+    "vote_count": 14874,
+    "popularity": 22.2479,
+    "poster_url": "https://image.tmdb.org/t/p/w500/4rbcp3ng8n1MKHjpeqW0L7Fnpzz.jpg",
+    "overview": "Andy heads off to Cowboy Camp, leaving his toys to their own devices. Things shift into high gear when an obsessive toy collector named Al McWhiggen, owner of Al's Toy Barn kidnaps Woody. Andy's toys mount a daring rescue mission, Buzz Lightyear meets his match and Woody has to decide where he and his heart truly belong.",
+    "feature_vector": [
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.511111,
+      0.527273,
+      0.7606,
+      0.480248,
+      0.907008
+    ],
+    "seed_bucket": "animation"
+  },
+  {
+    "tmdb_id": 354912,
+    "title": "Coco",
+    "year": 2017,
+    "runtime": 105,
+    "genres": [
+      "Family",
+      "Animation",
+      "Music",
+      "Adventure"
+    ],
+    "genre_ids": [
+      10751,
+      16,
+      10402,
+      12
+    ],
+    "rating": 8.197,
+    "vote_count": 20962,
+    "popularity": 21.9166,
+    "poster_url": "https://image.tmdb.org/t/p/w500/6Ryitt95xrO8KXuqRGm1fUuNwqF.jpg",
+    "overview": "Despite his family’s baffling generations-old ban on music, Miguel dreams of becoming an accomplished musician like his idol, Ernesto de la Cruz. Desperate to prove his talent, Miguel finds himself in the stunning and colorful Land of the Dead following a mysterious chain of events. Along the way, he meets charming trickster Hector, and together, they set off on an extraordinary journey to unlock the real story behind Miguel's family history.",
+    "feature_vector": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.583333,
+      0.854545,
+      0.8197,
+      0.478057,
+      0.939397
+    ],
+    "seed_bucket": "animation"
+  },
+  {
+    "tmdb_id": 585,
+    "title": "Monsters, Inc.",
+    "year": 2001,
+    "runtime": 92,
+    "genres": [
+      "Animation",
+      "Comedy",
+      "Family",
+      "Fantasy"
+    ],
+    "genre_ids": [
+      16,
+      35,
+      10751,
+      14
+    ],
+    "rating": 7.849,
+    "vote_count": 19749,
+    "popularity": 21.5427,
+    "poster_url": "https://image.tmdb.org/t/p/w500/wFSpyMsp7H0ttERbxY7Trlv8xry.jpg",
+    "overview": "Lovable Sulley and his wisecracking sidekick Mike Wazowski are the top scare team at Monsters, Inc., the scream-processing factory in Monstropolis. When a little girl named Boo wanders into their world, it's the monsters who are scared silly, and it's up to Sulley and Mike to keep her out of sight and get her back home.",
+    "feature_vector": [
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.511111,
+      0.563636,
+      0.7849,
+      0.475546,
+      0.93377
+    ],
+    "seed_bucket": "animation"
+  },
+  {
+    "tmdb_id": 315162,
+    "title": "Puss in Boots: The Last Wish",
+    "year": 2022,
+    "runtime": 103,
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Fantasy",
+      "Comedy",
+      "Family"
+    ],
+    "genre_ids": [
+      16,
+      12,
+      14,
+      35,
+      10751
+    ],
+    "rating": 8.2,
+    "vote_count": 8821,
+    "popularity": 21.4231,
+    "poster_url": "https://image.tmdb.org/t/p/w500/kuf6dutpsT0vSVehic3EZIqkOBt.jpg",
+    "overview": "Puss in Boots discovers that his passion for adventure has taken its toll: He has burned through eight of his nine lives, leaving him with only one life left. Puss sets out on an epic journey to find the mythical Last Wish and restore his nine lives.",
+    "feature_vector": [
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.572222,
+      0.945455,
+      0.82,
+      0.474734,
+      0.857687
+    ],
+    "seed_bucket": "animation"
+  },
+  {
+    "tmdb_id": 4935,
+    "title": "Howl's Moving Castle",
+    "year": 2004,
+    "runtime": 119,
+    "genres": [
+      "Fantasy",
+      "Animation",
+      "Adventure"
+    ],
+    "genre_ids": [
+      14,
+      16,
+      12
+    ],
+    "rating": 8.387,
+    "vote_count": 11070,
+    "popularity": 20.6639,
+    "poster_url": "https://image.tmdb.org/t/p/w500/13kOl2v0nD2OLbVSHnHk8GUFEhO.jpg",
+    "overview": "Sophie, a young milliner, is turned into an elderly woman by a witch who enters her shop and curses her. She encounters a wizard named Howl and gets caught up in his resistance to fighting for the king.",
+    "feature_vector": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.661111,
+      0.618182,
+      0.8387,
+      0.469477,
+      0.879125
+    ],
+    "seed_bucket": "animation"
+  },
+  {
+    "tmdb_id": 953,
+    "title": "Madagascar",
+    "year": 2005,
+    "runtime": 86,
+    "genres": [
+      "Adventure",
+      "Animation",
+      "Comedy",
+      "Family"
+    ],
+    "genre_ids": [
+      12,
+      16,
+      35,
+      10751
+    ],
+    "rating": 6.923,
+    "vote_count": 11715,
+    "popularity": 20.2451,
+    "poster_url": "https://image.tmdb.org/t/p/w500/zMpJY5CJKUufG9OTw0In4eAFqPX.jpg",
+    "overview": "Four animal friends get a taste of the wild life when they break out of captivity at the Central Park Zoo and wash ashore on the island of Madagascar.",
+    "feature_vector": [
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.477778,
+      0.636364,
+      0.6923,
+      0.466497,
+      0.884471
+    ],
+    "seed_bucket": "animation"
+  },
+  {
+    "tmdb_id": 664767,
+    "title": "Mortal Kombat Legends: Scorpion's Revenge",
+    "year": 2020,
+    "runtime": 80,
+    "genres": [
+      "Animation",
+      "Action",
+      "Fantasy"
+    ],
+    "genre_ids": [
+      16,
+      28,
+      14
+    ],
+    "rating": 8.091,
+    "vote_count": 1479,
+    "popularity": 20.178,
+    "poster_url": "https://image.tmdb.org/t/p/w500/iBvo3qOPcmhlqAaJcXcQHtx2qLk.jpg",
+    "overview": "After the vicious slaughter of his family by stone-cold mercenary Sub-Zero, Hanzo Hasashi is exiled to the torturous Netherrealm. There, in exchange for his servitude to the sinister Quan Chi, he’s given a chance to avenge his family – and is resurrected as Scorpion, a lost soul bent on revenge. Back on Earthrealm, Lord Raiden gathers a team of elite warriors – Shaolin monk Liu Kang, Special Forces officer Sonya Blade, and action star Johnny Cage – an unlikely band of heroes with one chance to save humanity. To do this, they must defeat Shang Tsung's horde of Outworld gladiators and reign over the Mortal Kombat tournament.",
+    "feature_vector": [
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.444444,
+      0.909091,
+      0.8091,
+      0.466014,
+      0.689151
+    ],
+    "seed_bucket": "animation"
+  },
+  {
+    "tmdb_id": 762509,
+    "title": "Mufasa: The Lion King",
+    "year": 2024,
+    "runtime": 118,
+    "genres": [
+      "Adventure",
+      "Family",
+      "Animation"
+    ],
+    "genre_ids": [
+      12,
+      10751,
+      16
+    ],
+    "rating": 7.3,
+    "vote_count": 2661,
+    "popularity": 20.0474,
+    "poster_url": "https://image.tmdb.org/t/p/w500/jbOSUAWMGzGL1L4EaUF8K6zYFo7.jpg",
+    "overview": "Mufasa, a cub lost and alone, meets a sympathetic lion named Taka, the heir to a royal bloodline. The chance meeting sets in motion an expansive journey of a group of misfits searching for their destiny.",
+    "feature_vector": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.655556,
+      0.981818,
+      0.73,
+      0.46507,
+      0.744571
+    ],
+    "seed_bucket": "animation"
+  },
+  {
+    "tmdb_id": 301528,
+    "title": "Toy Story 4",
+    "year": 2019,
+    "runtime": 100,
+    "genres": [
+      "Family",
+      "Comedy",
+      "Animation",
+      "Adventure"
+    ],
+    "genre_ids": [
+      10751,
+      35,
+      16,
+      12
+    ],
+    "rating": 7.464,
+    "vote_count": 10522,
+    "popularity": 19.7807,
+    "poster_url": "https://image.tmdb.org/t/p/w500/w9kR8qbmQ01HwnvK4alvnQ2ca0L.jpg",
+    "overview": "Woody has always been confident about his place in the world, devoted to taking care of his kid—whether that's Andy or Bonnie. But after Bonnie creates a reluctant new toy called \"Forky\", a road trip adventure alongside old and new friends challenges everything Woody believes about loyalty, purpose, and what it truly means to be a toy.",
+    "feature_vector": [
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.555556,
+      0.890909,
+      0.7464,
+      0.463123,
+      0.874332
+    ],
+    "seed_bucket": "animation"
+  },
+  {
+    "tmdb_id": 10193,
+    "title": "Toy Story 3",
+    "year": 2010,
+    "runtime": 102,
+    "genres": [
+      "Animation",
+      "Family",
+      "Comedy"
+    ],
+    "genre_ids": [
+      16,
+      10751,
+      35
+    ],
+    "rating": 7.8,
+    "vote_count": 15708,
+    "popularity": 19.6773,
+    "poster_url": "https://image.tmdb.org/t/p/w500/AbbXspMOwdvwWZgVN0nabZq03Ec.jpg",
+    "overview": "Woody, Buzz, and the rest of Andy's toys haven't been played with in years. With Andy about to go to college, the gang find themselves accidentally left at a nefarious day care center. The toys must band together to escape and return home to Andy.",
+    "feature_vector": [
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.566667,
+      0.727273,
+      0.78,
+      0.462362,
+      0.912158
+    ],
+    "seed_bucket": "animation"
+  },
+  {
+    "tmdb_id": 62177,
+    "title": "Brave",
+    "year": 2012,
+    "runtime": 93,
+    "genres": [
+      "Adventure",
+      "Animation",
+      "Family",
+      "Fantasy"
+    ],
+    "genre_ids": [
+      12,
+      16,
+      10751,
+      14
+    ],
+    "rating": 7.0,
+    "vote_count": 14150,
+    "popularity": 19.1267,
+    "poster_url": "https://image.tmdb.org/t/p/w500/1XAuDtMWpL0sYSFK0R6EZate2Ux.jpg",
+    "overview": "In the mystical Scottish Highlands, Merida is the princess of a kingdom ruled by King Fergus and Queen Elinor. An unruly daughter and an accomplished archer, Merida one day defies a sacred custom of the land and inadvertently brings turmoil to the kingdom. In an attempt to set things right, Merida seeks out an eccentric old Wise Woman and is granted an ill-fated wish. Also figuring into Merida's quest — and serving as comic relief — are the kingdom's three lords: the enormous Lord MacGuffin, the surly Lord Macintosh, and the disagreeable Lord Dingwall.",
+    "feature_vector": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.516667,
+      0.763636,
+      0.7,
+      0.458242,
+      0.902297
+    ],
+    "seed_bucket": "animation"
+  },
+  {
+    "tmdb_id": 38757,
+    "title": "Tangled",
+    "year": 2010,
+    "runtime": 100,
+    "genres": [
+      "Animation",
+      "Family",
+      "Adventure"
+    ],
+    "genre_ids": [
+      16,
+      10751,
+      12
+    ],
+    "rating": 7.6,
+    "vote_count": 12384,
+    "popularity": 19.053,
+    "poster_url": "https://image.tmdb.org/t/p/w500/ym7Kst6a4uodryxqbGOxmewF235.jpg",
+    "overview": "Feisty teenager Rapunzel, who has long and magical hair, wants to go and see sky lanterns on her eighteenth birthday, but she's bound to a tower by her overprotective mother. She strikes a deal with Flynn Rider, a charming wanted thief, and the duo set off on an action-packed escapade.",
+    "feature_vector": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.555556,
+      0.727273,
+      0.76,
+      0.457682,
+      0.889713
+    ],
+    "seed_bucket": "animation"
+  },
+  {
+    "tmdb_id": 2062,
+    "title": "Ratatouille",
+    "year": 2007,
+    "runtime": 111,
+    "genres": [
+      "Animation",
+      "Comedy",
+      "Family",
+      "Fantasy"
+    ],
+    "genre_ids": [
+      16,
+      35,
+      10751,
+      14
+    ],
+    "rating": 7.841,
+    "vote_count": 18461,
+    "popularity": 18.7044,
+    "poster_url": "https://image.tmdb.org/t/p/w500/t3vaWRPSf6WjDSamIkKDs1iQWna.jpg",
+    "overview": "Remy, a rat, possesses a palate far more refined than that of his fellow comrades. He dreams of becoming a chef, one who creates rather than scavenges. When fate deposits him in the sewers beneath one of Paris’s most famous restaurants, he finds himself ideally placed to fulfill his dream. Forming an unusual alliance with a hapless young kitchen worker, Remy begins a daring culinary double life.  As Remy pursues his vision, he must navigate the suspicions of the calculating Head Chef Skinner, the disapproval of Remy’s own colony, and the foreboding presence of renowned food critic Anton Ego, who strikes fear in the hearts of chefs all throughout France.",
+    "feature_vector": [
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.616667,
+      0.672727,
+      0.7841,
+      0.455005,
+      0.927403
+    ],
+    "seed_bucket": "animation"
+  },
+  {
+    "tmdb_id": 9502,
+    "title": "Kung Fu Panda",
+    "year": 2008,
+    "runtime": 90,
+    "genres": [
+      "Action",
+      "Animation",
+      "Comedy",
+      "Family"
+    ],
+    "genre_ids": [
+      28,
+      16,
+      35,
+      10751
+    ],
+    "rating": 7.3,
+    "vote_count": 12616,
+    "popularity": 18.8011,
+    "poster_url": "https://image.tmdb.org/t/p/w500/wWt4JYXTg5Wr3xBW2phBrMKgp3x.jpg",
+    "overview": "Chosen by prophecy but doubted by all, Po is an unlikely choice for the mystical title of the Dragon Warrior—a clumsy panda thrust into the world of kung fu as a deadly enemy threatens the Valley of Peace. Under reluctant guidance by Master Shifu and the Furious Five, Po must embrace who he is to unlock the power that no scroll can teach.",
+    "feature_vector": [
+      1.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.5,
+      0.690909,
+      0.73,
+      0.455753,
+      0.891465
+    ],
+    "seed_bucket": "animation"
+  },
+  {
+    "tmdb_id": 12,
+    "title": "Finding Nemo",
+    "year": 2003,
+    "runtime": 100,
+    "genres": [
+      "Animation",
+      "Family",
+      "Adventure"
+    ],
+    "genre_ids": [
+      16,
+      10751,
+      12
+    ],
+    "rating": 7.819,
+    "vote_count": 20546,
+    "popularity": 19.5929,
+    "poster_url": "https://image.tmdb.org/t/p/w500/5lc6nQc0VhWFYFbNv016xze8Jvy.jpg",
+    "overview": "Nemo, an adventurous young clownfish, is unexpectedly taken from his Great Barrier Reef home to a dentist's office aquarium. It's up to his worrisome father Marlin and a friendly but forgetful fish Dory to bring Nemo home -- meeting vegetarian sharks, surfer dude turtles, hypnotic jellyfish, hungry seagulls, and more along the way.",
+    "feature_vector": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.555556,
+      0.6,
+      0.7819,
+      0.461738,
+      0.937504
+    ],
+    "seed_bucket": "animation"
+  }
+]

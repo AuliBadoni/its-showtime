@@ -1,0 +1,23 @@
+/* Source Sans 3 — 400 (regular) */
+@import "@fontsource/source-sans-3/400.css";
+/* Source Sans 3 — 600 (semibold) */
+@import "@fontsource/source-sans-3/600.css";
+/* Source Sans 3 — 700 (bold) */
+@import "@fontsource/source-sans-3/700.css";
+/* Source Sans 3 — 900 (black) */
+@import "@fontsource/source-sans-3/900.css";
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html,
+body,
+#root {
+  height: 100%;
+  background: #0f100d;
+}
+
+body {
+  margin: 0;
+}
