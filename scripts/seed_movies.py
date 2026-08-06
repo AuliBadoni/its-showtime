@@ -1,6 +1,6 @@
 """One-time TMDB → data/movies.json seeder.
 
-Pulls ~200 popular movies across genre buckets, dedupes globally, computes a
+Pulls ~2500 popular movies across genre buckets, dedupes globally, computes a
 13-dim feature_vector per movie (see docs/tmdb-vector.md), and writes a single
 JSON array to data/movies.json.
 
@@ -37,14 +37,14 @@ GENRE_ORDER = [
 ]
 
 BUCKETS = [
-    ("comedy", 35, 25),
-    ("drama", 18, 25),
-    ("thriller", 53, 25),
-    ("action", 28, 25),
-    ("horror", 27, 20),
-    ("romance", 10749, 20),
-    ("scifi", 878, 20),
-    ("animation", 16, 20),
+    ("comedy", 35, 313),
+    ("drama", 18, 313),
+    ("thriller", 53, 313),
+    ("action", 28, 313),
+    ("horror", 27, 313),
+    ("romance", 10749, 313),
+    ("scifi", 878, 313),
+    ("animation", 16, 313),
 ]
 
 PROJECT_ROOT = Path(__file__).resolve().parents[1]
@@ -72,7 +72,7 @@ def discover_page(genre_id: int, page: int, api_key: str) -> list[dict]:
         "/discover/movie",
         {
             "with_genres": str(genre_id),
-            "vote_count.gte": 1000,
+            "vote_count.gte": 500,
             "sort_by": "popularity.desc",
             "include_adult": "false",
             "page": page,
@@ -125,7 +125,7 @@ def collect_bucket(bucket: str, genre_id: int, quota: int, seen: set[int], api_k
                 continue
             if not item.get("poster_path"):
                 continue
-            if (item.get("vote_count") or 0) < 1000:
+            if (item.get("vote_count") or 0) < 500:
                 continue
 
             try:
@@ -169,7 +169,7 @@ def collect_bucket(bucket: str, genre_id: int, quota: int, seen: set[int], api_k
             seen.add(tmdb_id)
 
         page += 1
-        if page > 50:
+        if page > 100:
             break
 
     return collected
@@ -226,7 +226,7 @@ def main() -> int:
     print(f"\ntotal: {total}")
     print(f"output: {OUTPUT_PATH}")
 
-    if not ok or total < 200:
+    if not ok or total < 2500:
         print("\nseed incomplete: one or more buckets under quota", file=sys.stderr)
         return 1
     return 0
